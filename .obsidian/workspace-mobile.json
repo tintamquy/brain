@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "3e4aa39121d84e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "153606fe7c9877af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37afd67fd186522",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee526fc6aa5ce212",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f71d0750015c4b1b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8bc12dd0967ecf48",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Tìm kiếm"
+        }
+      },
+      {
+        "id": "1fccd153fb442683",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Thẻ"
+        }
+      },
+      {
+        "id": "c578b9e883b0a7d9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Tất cả thuộc tính"
+        }
+      },
+      {
+        "id": "f1e7fb0b13680226",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Đánh dấu"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1ef1fea89cbde591",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a2fed3e044dc7bf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Liên kết đến"
+        }
+      },
+      {
+        "id": "bbb7981209aedac8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liên kết đi ra"
+        }
+      },
+      {
+        "id": "1455ce97035ca60d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Đề cương"
+        }
+      },
+      {
+        "id": "eecff40f3b33d09e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c37afd67fd186522",
+  "lastOpenFiles": [
+    "hành trình luyện tập siêu trí nhớ.md",
+    "sám hối.md",
+    "Phật Pháp/Chân lý.md",
+    "Tứ diệu đế.md",
+    "sự nghiệp.md",
+    "Phật Pháp/Ngồi thiền nhật ký.md",
+    "Nhật Ký/Ghi chép obsidian Zettelkasten.md",
+    "Phật Pháp/Nguyên nhân của giải thoát.md",
+    "Nhật Ký/Khi không biết làm gì.md",
+    "Niệm Phật.md",
+    "kiếm tiền.md",
+    "1783248223374.png",
+    "phóng dật.md",
+    "Ngồi thiền.md",
+    "Phật Pháp/Chánh niệm.md",
+    "Phật Pháp/hành trình học phật pháp.md",
+    "Phật pháp.md",
+    "niết bàn.md",
+    "Khổ đế.md",
+    "Phật Pháp/Ái biệt ly là khổ.md",
+    "Siêu trí nhớ tiếng trung.md",
+    "Nhật Ký",
+    "Tiếng Trung",
+    "Phật Pháp",
+    "Nhật Ký/Ghi lại những suy nghĩ.md",
+    "Nhật Ký/Luyện tập viết.md"
+  ]
+}

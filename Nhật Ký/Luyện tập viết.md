@@ -1,0 +1,1 @@
+Tôi sẽ luyện tập viết ra những ý tưởng trong đầu thay vì học thụ động như trước, [[Ghi chép obsidian Zettelkasten]],
