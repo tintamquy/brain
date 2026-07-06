@@ -11,10 +11,14 @@
             "id": "6f0a75f13685c9a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tiếng pali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tiếng pali"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "6f0a75f13685c9a6",
   "lastOpenFiles": [
+    "tiếng pali.md",
     "Nhật Ký/nhật ký.md",
     "Công việc/việc làm.md",
     "Phật Pháp/Ngồi thiền.md",
@@ -206,7 +211,6 @@
     "Nhật Ký",
     "Tiếng Trung",
     "Phật Pháp",
-    "Nhật Ký/Ghi lại những suy nghĩ.md",
-    "Nhật Ký/Luyện tập viết.md"
+    "Nhật Ký/Ghi lại những suy nghĩ.md"
   ]
 }
