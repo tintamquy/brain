@@ -25,10 +25,14 @@
             "id": "ae0d8a9a0ae523d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Nhật Ký/Ghi chép Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghi chép Obsidian"
             }
           },
           {
@@ -129,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nhật Ký/Ghi chép Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ghi chép Obsidian"
             }
           },
           {
@@ -147,11 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nhật Ký/Ghi chép Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ghi chép Obsidian"
             }
           },
           {
@@ -189,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nhật Ký/Ghi chép Obsidian.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ghi chép Obsidian"
             }
           },
           {
