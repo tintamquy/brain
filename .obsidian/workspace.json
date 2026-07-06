@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nhật Ký/Cách ghi chép Zettelkasten.md",
+                "file": "Công việc/kiếm tiền.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cách ghi chép Zettelkasten"
+              "title": "kiếm tiền"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,18 +190,29 @@
               "type": "outline",
               "state": {
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ffb504c385861937",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 598.5
+    "width": 986.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,26 +226,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "227ce841101bd2c0",
+  "active": "ae0d8a9a0ae523d3",
   "lastOpenFiles": [
+    "Phật Pháp/sám hối.md",
+    "Nhật Ký/Ghi chép Obsidian.md",
+    "Nhật Ký/Cách ghi chép Zettelkasten.md",
+    "conflict-files-obsidian-git.md",
+    "việc làm.md",
+    "tiếng pali.md",
+    "Nhật Ký/Luyện tập viết.md",
+    "Nhật Ký/Ghi chép obsidian Zettelkasten.md",
+    "Công việc/Nỗi sợ mất việc.md",
     "Phật Pháp/Ngồi thiền.md",
     "Phật Pháp/tiếng pali.md",
-    "conflict-files-obsidian-git.md",
     "Nhật Ký/Khi không biết làm gì.md",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png",
-    "Nhật Ký/Ghi chép Obsidian.md",
-    "Nhật Ký/Cách ghi chép Zettelkasten.md",
     "Công việc/kiếm tiền.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Untitled.md",
     "Nhật Ký/Ghi lại những suy nghĩ.md",
-    "Công việc/Nỗi sợ mất việc.md",
     "Công việc/việc làm.md",
     "Công việc/sự nghiệp.md",
     "việc làm 1.md",
     "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
-    "Công việc/việc làm 1.md",
-    "Phật Pháp/sám hối.md"
+    "Công việc/việc làm 1.md"
   ]
 }
