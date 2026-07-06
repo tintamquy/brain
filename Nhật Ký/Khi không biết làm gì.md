@@ -1,3 +1,4 @@
+Quán sát trạng thái tâm trống rỗng, không biết gì. 
 Tập quay về với hơi thở
 và câu NAM MÔ A DI ĐÀ PHẬT 
 
