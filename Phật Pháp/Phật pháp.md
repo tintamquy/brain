@@ -1,3 +1,5 @@
+Nam Mô Bổn Sư Thích Ca Mâu Ni Phật
+Nam Mô A Di Đà Phật
 
 Giới
 Định 

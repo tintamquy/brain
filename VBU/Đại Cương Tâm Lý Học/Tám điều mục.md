@@ -1,0 +1,8 @@
+- Cách vật, 
+- Trí tri
+- Chính tâm
+- Thành ý
+- Tu Thân
+- Tề Gia
+- Trị Quốc 
+- Bình Thiên Hạ
