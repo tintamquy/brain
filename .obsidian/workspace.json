@@ -209,6 +209,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "faa9ec7bde33e874",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 3
@@ -229,10 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292dae7e2fe18ea5",
+  "active": "c2f43c9dbffe9d8e",
   "lastOpenFiles": [
-    "Phật Pháp/hành trình học phật pháp.md",
+    "Untitled.md",
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+    "Phật Pháp/hành trình học phật pháp.md",
     "Phật Pháp/Tam Tổ Huyền Quang",
     "ZettelKasten/ZettelKasten.md",
     "Phật Pháp/Untitled.canvas",
@@ -263,7 +276,6 @@
     "Phật Pháp/Tứ diệu đế.md",
     "Phật Pháp/tiếng pali.md",
     "Phật Pháp/sám hối.md",
-    "Phật Pháp/phóng dật.md",
     "Phật Pháp/HT Tịnh Không",
     "MOC.base",
     "Brain",
