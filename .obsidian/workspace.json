@@ -221,9 +221,19 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "40ba9fa298c28934",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -238,20 +248,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "c2f43c9dbffe9d8e",
+  "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+    "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
+    "Untitled.md",
     "Phật Pháp/hành trình học phật pháp.md",
     "Phật Pháp/Tam Tổ Huyền Quang",
     "ZettelKasten/ZettelKasten.md",
     "Phật Pháp/Untitled.canvas",
     "ZettelKasten/Cách ghi chép Zettelkasten.md",
     "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
-    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "ZettelKasten/Ghi chép Obsidian.md",
     "Phật Pháp/Thực hành thiền/Tứ niệm xứ.md",
     "Phật Pháp/Thực hành thiền/Ngồi thiền nhật ký.md",
@@ -275,7 +289,6 @@
     "Untitled.canvas",
     "Phật Pháp/Tứ diệu đế.md",
     "Phật Pháp/tiếng pali.md",
-    "Phật Pháp/sám hối.md",
     "Phật Pháp/HT Tịnh Không",
     "MOC.base",
     "Brain",
