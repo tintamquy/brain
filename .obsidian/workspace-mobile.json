@@ -17,8 +17,8 @@
                 "bFile": ".obsidian/workspace-mobile.json",
                 "aRef": ""
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-ghost",
+              "title": "diff-view"
             }
           },
           {
@@ -31,18 +31,22 @@
                 "bFile": ".obsidian/workspace-mobile.json",
                 "aRef": ""
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-ghost",
+              "title": "diff-view"
             }
           },
           {
             "id": "caa8db18da585049",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Công việc/Nỗi sợ mất việc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nỗi sợ mất việc"
             }
           }
         ],
@@ -182,8 +186,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -197,8 +201,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "caa8db18da585049",
