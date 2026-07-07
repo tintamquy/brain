@@ -1,5 +1,5 @@
 Ghi lại những suy nghĩ là quá trình nhìn lại mình 
-Thưc chất đây là  Tứ chánh cần, là một trong những cách quán sát và đây là quán sát tâm. 
+Thưc chất đây là  Tứ chánh cần, là một trong những cách quán sát và đây là quán sát tâm là một trong những đề mục [[Tứ niệm xứ]]
 
 
 
