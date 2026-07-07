@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giới thiệu Tam Tổ Huyền Quang"
+              "title": "cuộc đời tam tổ Huyền Quang"
             }
           }
         ],
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
+                "file": "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tám điều mục"
+              "title": "Mnemoic Loci  X  ZettelKasten"
             }
           }
         ]
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Giới thiệu Tam Tổ Huyền Quang"
+              "title": "Backlinks for cuộc đời tam tổ Huyền Quang"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Giới thiệu Tam Tổ Huyền Quang"
+              "title": "Outgoing links from cuộc đời tam tổ Huyền Quang"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Giới thiệu Tam Tổ Huyền Quang"
+              "title": "Outline of cuộc đời tam tổ Huyền Quang"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md"
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -256,10 +256,11 @@
   },
   "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
-    "2026-07-07.md",
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
-    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
+    "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
+    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
+    "2026-07-07.md",
     "Untitled.md",
     "Phật Pháp/hành trình học phật pháp.md",
     "Phật Pháp/Tam Tổ Huyền Quang",
@@ -288,7 +289,6 @@
     "Untitled.base",
     "Untitled.canvas",
     "Phật Pháp/Tứ diệu đế.md",
-    "Phật Pháp/tiếng pali.md",
     "Phật Pháp/HT Tịnh Không",
     "MOC.base",
     "Brain",
