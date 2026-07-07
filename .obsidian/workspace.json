@@ -32,6 +32,19 @@
             }
           },
           {
+            "id": "b949ce0cfed928f5",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "d0b0f9147cbe25d9",
             "type": "leaf",
             "state": {
@@ -42,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -130,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -148,11 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -190,12 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -227,9 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d092d9e4335dae7",
+  "active": "b949ce0cfed928f5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Untitled.base",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Brain",
