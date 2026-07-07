@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
+                "file": "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tâm thành kính với thiện tri thức."
+              "title": "Phật bồ tát ở đâu"
+            }
+          },
+          {
+            "id": "94dde8f3627fb9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
+                "file": "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tâm thành kính với thiện tri thức."
+              "title": "Backlinks for Phật bồ tát ở đâu"
             }
           },
           {
@@ -138,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
+                "file": "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tâm thành kính với thiện tri thức."
+              "title": "Outgoing links from Phật bồ tát ở đâu"
             }
           },
           {
@@ -181,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
+                "file": "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tâm thành kính với thiện tri thức."
+              "title": "Outline of Phật bồ tát ở đâu"
             }
           },
           {
@@ -222,8 +236,10 @@
   },
   "active": "2d092d9e4335dae7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
+    "Phật Pháp/HT Tịnh Không/Thành kính với thiện tri thức..md",
     "Phật Pháp/HT Tịnh Không/Untitled 1.md",
-    "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
     "Nhật Ký/Cách ghi chép Zettelkasten.md",
     "Phật Pháp/HT Tịnh Không",
     "Nhật Ký/ZettelKasten.md",
@@ -234,7 +250,6 @@
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
     "MOC.base",
-    "conflict-files-obsidian-git.md",
     "Brain",
     "Phật Pháp/Ái biệt ly là khổ.md",
     "Phật Pháp/Chánh niệm.md",
@@ -251,7 +266,6 @@
     "Phật Pháp/Ngồi thiền.md",
     "Nhật Ký/Khi không biết làm gì.md",
     "Pasted image 20260706170923.png",
-    "Pasted image 20260706170722.png",
-    "Công việc/việc làm.md"
+    "Pasted image 20260706170722.png"
   ]
 }
