@@ -8,4 +8,9 @@ Ngã mạn thể hiện qua 3 hình thái trong cuộc sống.
 
 Cách đối trị: 
 - Thực hành quán bất tịnh, quán tử thi, quán [[Tứ diệu đế]], [[tứ niệm xứ]], 
-- 
+- quán vô thường, [[Tu Tập Qua Kinh Nghiệm Cái Chết]] đến tha
+- Thực hành sự khiêm cung hạ mình. 
+- Hiểu rằng ai cũng có điểm mạnh và điểm yếu. 
+- Biết nhìn ra và khen ngợi điều tốt đẹp của người khác.  
+- Quay về chánh niệm bản thân không để bản thân [[phóng dật]] khen mình nhìn lỗi chê người. 
+Điều này là điều cực kỳ cần thiết nếu muốn tiến xa trên [[hành trình học phật pháp]] và [[niết bàn]] vãng sinh về tây phương cực lạc. 
