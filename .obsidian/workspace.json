@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
+                "file": "Nhật Ký/Cách ghi chép Zettelkasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Siêu trí nhớ tiếng trung"
+              "title": "Cách ghi chép Zettelkasten"
             }
           },
           {
@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Siêu trí nhớ tiếng trung"
+              "title": "Backlinks"
             }
           },
           {
@@ -138,12 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Siêu trí nhớ tiếng trung"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Siêu trí nhớ tiếng trung"
+              "title": "Outline"
             }
           },
           {
@@ -219,23 +217,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d092d9e4335dae7",
+  "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
-    "MOC.base",
-    "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
+    "Nhật Ký/ZettelKasten.md",
+    "Untitled.md",
+    "Nhật Ký/Cách ghi chép Zettelkasten.md",
+    "Nhật Ký/Ghi chép Obsidian.md",
+    "Nhật Ký/Ghi lại những suy nghĩ.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
-    "conflict-files-obsidian-git.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
+    "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
+    "MOC.base",
+    "conflict-files-obsidian-git.md",
     "Brain",
     "Phật Pháp/Ái biệt ly là khổ.md",
     "Phật Pháp/Chánh niệm.md",
     "Công việc/kiếm tiền.md",
-    "Nhật Ký/Ghi chép Obsidian.md",
     "Phật Pháp/Tu Tập Qua Kinh Nghiệm Cái Chết.md",
     "Phật Pháp/tiếng pali.md",
     "Phật Pháp/Niệm Phật.md",
     "Phật Pháp/sám hối.md",
-    "Nhật Ký/Cách ghi chép Zettelkasten.md",
     "việc làm.md",
     "tiếng pali.md",
     "Nhật Ký/Luyện tập viết.md",
@@ -245,10 +246,8 @@
     "Nhật Ký/Khi không biết làm gì.md",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png",
-    "Nhật Ký/Ghi lại những suy nghĩ.md",
     "Công việc/việc làm.md",
     "Công việc/sự nghiệp.md",
-    "việc làm 1.md",
-    "Công việc/việc làm 1.md"
+    "việc làm 1.md"
   ]
 }
