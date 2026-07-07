@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba26e8efab12385",
+        "id": "62da4fd3bf049160",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0a75f13685c9a6",
+            "id": "db0122b64de521e3",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
+          },
+          {
+            "id": "6d0e87c723882728",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
+          },
+          {
+            "id": "caa8db18da585049",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +146,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Liên kết đến"
+          "title": "Backlinks"
         }
       },
       {
@@ -130,7 +159,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "Liên kết đi ra"
+          "title": "Outgoing links"
         }
       },
       {
@@ -144,7 +173,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Đề cương"
+          "title": "Outline"
         }
       },
       {
@@ -172,10 +201,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f0a75f13685c9a6",
+  "active": "caa8db18da585049",
   "lastOpenFiles": [
-    "Phật Pháp/tiếng pali.md",
+    "Nhật Ký/Ghi chép Obsidian.md",
+    "Nhật Ký/Cách ghi chép Zettelkasten.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.base",
+    "Nhật Ký/Ghi lại những suy nghĩ.md",
     "Nhật Ký/Ghi chép obsidian Zettelkasten.md",
+    "Công việc/sự nghiệp.md",
+    "Công việc/Nỗi sợ mất việc.md",
+    "Phật Pháp/tiếng pali.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Nhật Ký/nhật ký.md",
     "Công việc/việc làm.md",
@@ -183,15 +219,12 @@
     "Công việc",
     "Siêu Trí Nhớ",
     "2026-07-06.md",
-    "Untitled.base",
     "Untitled.canvas",
     "Phật Pháp/Ngồi thiền nhật ký.md",
-    "Công việc/Nỗi sợ mất việc.md",
     "Nhật Ký/Khi không biết làm gì.md",
     "Phật Pháp/sám hối.md",
     "Phật Pháp/Chân lý.md",
     "Phật Pháp/Tứ diệu đế.md",
-    "Công việc/sự nghiệp.md",
     "Phật Pháp/Nguyên nhân của giải thoát.md",
     "Phật Pháp/Niệm Phật.md",
     "Công việc/kiếm tiền.md",
@@ -201,12 +234,8 @@
     "Phật Pháp/hành trình học phật pháp.md",
     "Phật Pháp/Phật pháp.md",
     "Phật Pháp/niết bàn.md",
-    "Phật Pháp/Khổ đế.md",
-    "Phật Pháp/Ái biệt ly là khổ.md",
-    "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
     "Nhật Ký",
     "Tiếng Trung",
-    "Phật Pháp",
-    "Nhật Ký/Ghi lại những suy nghĩ.md"
+    "Phật Pháp"
   ]
 }
