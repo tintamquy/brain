@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nhật Ký/Cách ghi chép Zettelkasten.md",
+                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cách ghi chép Zettelkasten"
+              "title": "Tâm thành kính với thiện tri thức."
             }
           },
           {
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -120,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Tâm thành kính với thiện tri thức."
             }
           },
           {
@@ -138,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Tâm thành kính với thiện tri thức."
             }
           },
           {
@@ -180,12 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tâm thành kính với thiện tri thức."
             }
           },
           {
@@ -203,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292dae7e2fe18ea5",
+  "active": "2d092d9e4335dae7",
   "lastOpenFiles": [
+    "Phật Pháp/HT Tịnh Không/Untitled 1.md",
+    "Phật Pháp/HT Tịnh Không/Tâm thành kính với thiện tri thức..md",
+    "Nhật Ký/Cách ghi chép Zettelkasten.md",
+    "Phật Pháp/HT Tịnh Không",
     "Nhật Ký/ZettelKasten.md",
     "Untitled.md",
-    "Nhật Ký/Cách ghi chép Zettelkasten.md",
     "Nhật Ký/Ghi chép Obsidian.md",
     "Nhật Ký/Ghi lại những suy nghĩ.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
@@ -246,8 +252,6 @@
     "Nhật Ký/Khi không biết làm gì.md",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png",
-    "Công việc/việc làm.md",
-    "Công việc/sự nghiệp.md",
-    "việc làm 1.md"
+    "Công việc/việc làm.md"
   ]
 }
