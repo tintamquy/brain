@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phật Pháp/ngã mạn.md",
+                "file": "Phật Pháp/Tứ diệu đế.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ngã mạn"
+              "title": "Tứ diệu đế"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phật Pháp/ngã mạn.md",
+                "file": "Phật Pháp/Tứ diệu đế.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ngã mạn"
+              "title": "Backlinks for Tứ diệu đế"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phật Pháp/ngã mạn.md",
+                "file": "Phật Pháp/Tứ diệu đế.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ngã mạn"
+              "title": "Outgoing links from Tứ diệu đế"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phật Pháp/ngã mạn.md",
+                "file": "Phật Pháp/Tứ diệu đế.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ngã mạn"
+              "title": "Outline of Tứ diệu đế"
             }
           },
           {
@@ -222,6 +222,10 @@
   },
   "active": "2d092d9e4335dae7",
   "lastOpenFiles": [
+    "Phật Pháp/tiếng pali.md",
+    "Phật Pháp/sám hối.md",
+    "Phật Pháp/phóng dật.md",
+    "Phật Pháp/Phật pháp.md",
     "Phật Pháp/ngã mạn.md",
     "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
     "conflict-files-obsidian-git.md",
@@ -242,15 +246,11 @@
     "Phật Pháp/Chánh niệm.md",
     "Công việc/kiếm tiền.md",
     "Phật Pháp/Tu Tập Qua Kinh Nghiệm Cái Chết.md",
-    "Phật Pháp/tiếng pali.md",
     "Phật Pháp/Niệm Phật.md",
-    "Phật Pháp/sám hối.md",
     "việc làm.md",
     "tiếng pali.md",
     "Nhật Ký/Luyện tập viết.md",
     "Nhật Ký/Ghi chép obsidian Zettelkasten.md",
-    "Công việc/Nỗi sợ mất việc.md",
-    "Phật Pháp/Ngồi thiền.md",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png"
   ]
