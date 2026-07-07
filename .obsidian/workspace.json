@@ -13,44 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Công việc/kiếm tiền.md",
+                "file": "Phật Pháp/Ái biệt ly là khổ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kiếm tiền"
+              "title": "Ái biệt ly là khổ"
             }
           },
           {
-            "id": "ae0d8a9a0ae523d3",
+            "id": "d0b0f9147cbe25d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nhật Ký/Ghi chép Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ghi chép Obsidian"
-            }
-          },
-          {
-            "id": "d5827277ac44220e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phật Pháp/tiếng pali.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tiếng pali"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -107,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "92db40bbdee139b3",
@@ -121,10 +103,14 @@
             "id": "227ce841101bd2c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Phật Pháp/Niệm Phật.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Niệm Phật"
             }
           },
           {
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nhật Ký/Ghi chép Obsidian.md",
+                "file": "Phật Pháp/Ái biệt ly là khổ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ghi chép Obsidian"
+              "title": "Backlinks for Ái biệt ly là khổ"
             }
           },
           {
@@ -152,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nhật Ký/Ghi chép Obsidian.md",
+                "file": "Phật Pháp/Ái biệt ly là khổ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ghi chép Obsidian"
+              "title": "Outgoing links from Ái biệt ly là khổ"
             }
           },
           {
@@ -195,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nhật Ký/Ghi chép Obsidian.md",
+                "file": "Phật Pháp/Ái biệt ly là khổ.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ghi chép Obsidian"
+              "title": "Outline of Ái biệt ly là khổ"
             }
           },
           {
@@ -219,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 986.5
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,10 +219,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae0d8a9a0ae523d3",
+  "active": "c004661e3c8cf624",
   "lastOpenFiles": [
-    "Phật Pháp/sám hối.md",
+    "Phật Pháp/Ái biệt ly là khổ.md",
+    "Phật Pháp/Chánh niệm.md",
+    "Công việc/kiếm tiền.md",
     "Nhật Ký/Ghi chép Obsidian.md",
+    "Phật Pháp/Tu Tập Qua Kinh Nghiệm Cái Chết.md",
+    "Phật Pháp/tiếng pali.md",
+    "Phật Pháp/Niệm Phật.md",
+    "Phật Pháp/sám hối.md",
     "Nhật Ký/Cách ghi chép Zettelkasten.md",
     "conflict-files-obsidian-git.md",
     "việc làm.md",
@@ -245,13 +237,10 @@
     "Nhật Ký/Ghi chép obsidian Zettelkasten.md",
     "Công việc/Nỗi sợ mất việc.md",
     "Phật Pháp/Ngồi thiền.md",
-    "Phật Pháp/tiếng pali.md",
     "Nhật Ký/Khi không biết làm gì.md",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png",
-    "Công việc/kiếm tiền.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
-    "Untitled.md",
     "Nhật Ký/Ghi lại những suy nghĩ.md",
     "Công việc/việc làm.md",
     "Công việc/sự nghiệp.md",
