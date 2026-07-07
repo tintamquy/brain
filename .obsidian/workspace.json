@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phật Pháp/Thực hành thiền/Tứ niệm xứ.md",
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tứ niệm xứ"
+              "title": "Giới thiệu Tam Tổ Huyền Quang"
             }
           }
         ],
@@ -32,10 +32,14 @@
             "id": "f5ebcbcf78fd0c92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tám điều mục"
             }
           }
         ]
@@ -125,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Giới thiệu Tam Tổ Huyền Quang"
             }
           },
           {
@@ -143,11 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Giới thiệu Tam Tổ Huyền Quang"
             }
           },
           {
@@ -185,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Giới thiệu Tam Tổ Huyền Quang"
             }
           },
           {
@@ -204,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,12 +229,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5ebcbcf78fd0c92",
+  "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
+    "Phật Pháp/hành trình học phật pháp.md",
+    "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+    "Phật Pháp/Tam Tổ Huyền Quang",
+    "ZettelKasten/ZettelKasten.md",
+    "Phật Pháp/Untitled.canvas",
+    "ZettelKasten/Cách ghi chép Zettelkasten.md",
+    "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
+    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
+    "ZettelKasten/Ghi chép Obsidian.md",
     "Phật Pháp/Thực hành thiền/Tứ niệm xứ.md",
     "Phật Pháp/Thực hành thiền/Ngồi thiền nhật ký.md",
-    "Nhật Ký/Ghi lại những suy nghĩ.md",
-    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
+    "ZettelKasten/Ghi lại những suy nghĩ.md",
     "VBU/Đại Cương Tâm Lý Học",
     "VBU",
     "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
@@ -241,7 +255,6 @@
     "Phật Pháp/Thực hành thiền/Niệm Phật.md",
     "Phật Pháp/ngã mạn.md",
     "Phật Pháp/Khổ đế.md",
-    "Phật Pháp/hành trình học phật pháp.md",
     "Phật Pháp/Chân lý.md",
     "Phật Pháp/Ái biệt ly là khổ.md",
     "2026-07-07.md",
@@ -251,12 +264,7 @@
     "Phật Pháp/tiếng pali.md",
     "Phật Pháp/sám hối.md",
     "Phật Pháp/phóng dật.md",
-    "conflict-files-obsidian-git.md",
-    "Phật Pháp/HT Tịnh Không/Untitled 1.md",
-    "Nhật Ký/Cách ghi chép Zettelkasten.md",
     "Phật Pháp/HT Tịnh Không",
-    "Nhật Ký/ZettelKasten.md",
-    "Untitled.md",
     "MOC.base",
     "Brain",
     "Pasted image 20260706170923.png",
