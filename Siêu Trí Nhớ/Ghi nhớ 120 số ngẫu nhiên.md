@@ -6,3 +6,6 @@
 593641 258079 364295 187306
 
 đây là một trong những thử thách  trong [[hành trình luyện tập siêu trí nhớ]], đối nghịch lại với si mê [[phóng dật]], hy vọng sẽ áp dụng được trong [[sự nghiệp]]   và gặp lại được trong các chia sẻ về siêu trí nhớ. 
+tôi hy vọng sẽ là thành tích để khuyến khích mình chinh phục 1200 số pi, trong tương lai
+- Học thuộc chú đại bi
+- học thuộc chú lăng nghiêm.
