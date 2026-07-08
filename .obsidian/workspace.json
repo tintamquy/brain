@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
+                "file": "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cuộc đời tam tổ Huyền Quang"
+              "title": "Tâm ta là Phật"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
+                "file": "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cuộc đời tam tổ Huyền Quang"
+              "title": "Backlinks for Tâm ta là Phật"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
+                "file": "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cuộc đời tam tổ Huyền Quang"
+              "title": "Outgoing links from Tâm ta là Phật"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
+                "file": "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cuộc đời tam tổ Huyền Quang"
+              "title": "Outline of Tâm ta là Phật"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md"
+                "file": "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -257,6 +257,7 @@
   "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+    "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
     "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
@@ -288,7 +289,6 @@
     "Phật Pháp/Ái biệt ly là khổ.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Phật Pháp/Tứ diệu đế.md",
     "Phật Pháp/HT Tịnh Không",
     "MOC.base",
     "Brain",
