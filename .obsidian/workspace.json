@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Ghi nhớ 120 số ngẫu nhiên"
             }
+          },
+          {
+            "id": "b54331f58222a849",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "stacked": true
@@ -237,10 +247,11 @@
   },
   "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
+    "Phật Pháp/HT Tịnh Không/Niềm vui từ học tập.md",
+    "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "ZettelKasten/Khi không biết làm gì.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Công việc/Hãy khôn ngoan ứng xử.md",
-    "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "ZettelKasten/Ghi lại những suy nghĩ.md",
     "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "ZettelKasten/Cách ghi chép Zettelkasten.md",
@@ -267,7 +278,6 @@
     "Phật Pháp/Tam Tổ Huyền Quang",
     "Phật Pháp/Untitled.canvas",
     "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
-    "Phật Pháp/Thực hành thiền/Tứ niệm xứ.md",
     "VBU/Đại Cương Tâm Lý Học",
     "VBU",
     "Phật Pháp/Thực hành thiền",
