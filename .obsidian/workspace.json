@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "file": "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghi nhớ 120 số ngẫu nhiên"
+              "title": "Ghi chép theo đuổi mục tiêu lâu dài."
             }
           },
           {
             "id": "b54331f58222a849",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "đối trị phóng dật"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "file": "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ghi nhớ 120 số ngẫu nhiên"
+              "title": "Backlinks for đối trị phóng dật"
             }
           },
           {
@@ -138,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "file": "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ghi nhớ 120 số ngẫu nhiên"
+              "title": "Outgoing links from đối trị phóng dật"
             }
           },
           {
@@ -181,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "file": "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ghi nhớ 120 số ngẫu nhiên"
+              "title": "Outline of đối trị phóng dật"
             }
           },
           {
@@ -206,7 +211,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md"
+                "file": "Phật Pháp/Thực hành thiền/đối trị phóng dật.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -245,9 +250,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "292dae7e2fe18ea5",
+  "active": "c2f43c9dbffe9d8e",
   "lastOpenFiles": [
+    "Phật Pháp/Thực hành thiền/phóng dật.md",
+    "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
     "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+    "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
+    "Phật Pháp/Ứng dụng/sám hối.md",
     "Phật Pháp/HT Tịnh Không/Niềm vui từ học tập.md",
     "ZettelKasten/Khi không biết làm gì.md",
     "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
@@ -260,12 +269,10 @@
     "Phật Pháp/Tứ Diệu Đế/Nguyên nhân của giải thoát.md",
     "ZettelKasten/ZettelKasten.md",
     "Excalidraw",
-    "Phật Pháp/Thực hành thiền/phóng dật.md",
     "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "Phật Pháp/Ứng dụng/hành trình học phật pháp.md",
     "Phật Pháp/Ứng dụng/tiếng pali.md",
-    "Phật Pháp/Ứng dụng/sám hối.md",
     "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
     "Phật Pháp/Ứng dụng",
     "2026-07-08.md",
@@ -274,10 +281,8 @@
     "Phật Pháp/Thực hành thiền/Niệm Phật.md",
     "Phật Pháp/Thực hành thiền/Ngồi thiền nhật ký.md",
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
-    "2026-07-07.md",
     "Phật Pháp/Tam Tổ Huyền Quang",
     "Phật Pháp/Untitled.canvas",
-    "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
     "VBU/Đại Cương Tâm Lý Học",
     "VBU",
     "Phật Pháp/Thực hành thiền",
