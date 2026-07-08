@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "62da4fd3bf049160",
+        "id": "ff86cee08d1af96b",
         "type": "tabs",
         "children": [
           {
-            "id": "db0122b64de521e3",
+            "id": "d5b44deb57c604ff",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-ghost",
-              "title": "diff-view"
-            }
-          },
-          {
-            "id": "6d0e87c723882728",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "diff-view"
-            }
-          },
-          {
-            "id": "caa8db18da585049",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Ghi nhớ 120 số ngẫu nhiên"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,6 +166,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,8 +179,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f71d0750015c4b1b",
+  "active": "d5b44deb57c604ff",
   "lastOpenFiles": [
+    "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+    "Phật Pháp/HT Tịnh Không/Niềm vui từ học tập.md",
+    "Công việc/Hãy khôn ngoan ứng xử.md",
     "ZettelKasten/Khi không biết làm gì.md",
     "ZettelKasten/Ghi chép Obsidian.md",
     "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
@@ -230,9 +212,6 @@
     "Phật Pháp/Thực hành thiền/Chánh niệm.md",
     "Phật Pháp/Thực hành thiền/Ngồi thiền nhật ký.md",
     "Phật Pháp/Thực hành thiền/ngã mạn.md",
-    "Phật Pháp/Thực hành thiền/Niệm Phật.md",
-    "Phật Pháp/Thực hành thiền/phóng dật.md",
-    "Phật Pháp/Thực hành thiền/Ngồi thiền.md",
     "Phật Pháp/Thực hành thiền",
     "Phật Pháp/Tam Tổ Huyền Quang",
     "Phật Pháp/HT Tịnh Không",
