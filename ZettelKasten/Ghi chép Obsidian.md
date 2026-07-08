@@ -22,3 +22,4 @@ https://www.linkedin.com/posts/valaafshar_data-info-knowledge-insight-wisdom-act
 Vậy thì một câu hỏi ở đây là siêu trí nhớ các phương pháp mnemoic sẽ ở đâu trong quá trình này?
 
 ---
+*tham khảo từ Neteliason blog https://www.nateliason.com/blog/smart-notes
