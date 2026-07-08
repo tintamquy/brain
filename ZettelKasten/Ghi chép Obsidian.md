@@ -6,7 +6,7 @@ Cứ ghi chép note ra, cứ làm đi. Không cần phải tham khảo nhiều c
 	1. ý tưởng này bổ sung bổ tợ cho ý tưởng nào? 
 	2. ý tưởng này đối nghịch, trái ngược với ý tưởng nào?
 	3. ý tưởng này có thể ứng dụng thế nào? 
-	4. tôi muốn gặp lại ý tưởng này ở đâu trong tương lai? 
+	4. **tôi muốn gặp lại ý tưởng này ở đâu trong tương lai?** 
 
 
 tôi thật sự muốn gặp lại ý tưởng ghi chép này và ứng dụng nó vào tất cả [[hành trình học phật pháp]] và [[hành trình luyện tập siêu trí nhớ]] của mình trong tương lai. 
