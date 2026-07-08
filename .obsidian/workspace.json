@@ -13,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZettelKasten/Khi không biết làm gì.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Khi không biết làm gì"
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "958f26b77868da0a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5ebcbcf78fd0c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tám điều mục"
+              "title": "Ghi nhớ 120 số ngẫu nhiên"
             }
           }
         ],
@@ -130,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZettelKasten/Khi không biết làm gì.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Khi không biết làm gì"
+              "title": "Backlinks for Ghi nhớ 120 số ngẫu nhiên"
             }
           },
           {
@@ -149,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZettelKasten/Khi không biết làm gì.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Khi không biết làm gì"
+              "title": "Outgoing links from Ghi nhớ 120 số ngẫu nhiên"
             }
           },
           {
@@ -192,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZettelKasten/Khi không biết làm gì.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Khi không biết làm gì"
+              "title": "Outline of Ghi nhớ 120 số ngẫu nhiên"
             }
           },
           {
@@ -217,7 +196,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "ZettelKasten/Khi không biết làm gì.md"
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -258,13 +237,15 @@
   },
   "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
+    "ZettelKasten/Khi không biết làm gì.md",
+    "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
+    "Công việc/Hãy khôn ngoan ứng xử.md",
+    "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+    "ZettelKasten/Ghi lại những suy nghĩ.md",
     "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "ZettelKasten/Cách ghi chép Zettelkasten.md",
     "ZettelKasten/Ghi chép Obsidian.md",
-    "ZettelKasten/Ghi lại những suy nghĩ.md",
-    "ZettelKasten/Khi không biết làm gì.md",
     "Excalidraw/Drawing 2026-07-08 09.09.20.excalidraw.md",
-    "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Phật Pháp/Tứ Diệu Đế/Nguyên nhân của giải thoát.md",
     "ZettelKasten/ZettelKasten.md",
     "Excalidraw",
@@ -283,14 +264,12 @@
     "Phật Pháp/Thực hành thiền/Ngồi thiền nhật ký.md",
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
     "2026-07-07.md",
-    "Untitled.md",
     "Phật Pháp/Tam Tổ Huyền Quang",
     "Phật Pháp/Untitled.canvas",
     "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
     "Phật Pháp/Thực hành thiền/Tứ niệm xứ.md",
     "VBU/Đại Cương Tâm Lý Học",
     "VBU",
-    "Phật Pháp/HT Tịnh Không/Phật bồ tát ở đâu.md",
     "Phật Pháp/Thực hành thiền",
     "Untitled.base",
     "Untitled.canvas",
