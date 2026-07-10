@@ -11,3 +11,5 @@
 tôi hy vọng sẽ là thành tích để khuyến khích mình chinh phục 1200 số pi, trong tương lai
 - Học thuộc chú đại bi
 - học thuộc chú lăng nghiêm.   
+---
+đã hoàn thành 
