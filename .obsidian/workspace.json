@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Công việc/Run as different user.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Run as different user"
+              "title": "Ghi nhớ 120 số ngẫu nhiên"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Công việc/Run as different user.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Run as different user"
+              "title": "Backlinks for Ghi nhớ 120 số ngẫu nhiên"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Công việc/Run as different user.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Run as different user"
+              "title": "Outgoing links from Ghi nhớ 120 số ngẫu nhiên"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Công việc/Run as different user.md",
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Run as different user"
+              "title": "Outline of Ghi nhớ 120 số ngẫu nhiên"
             }
           },
           {
@@ -211,7 +211,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Công việc/Run as different user.md"
+                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -252,8 +252,8 @@
   },
   "active": "b54331f58222a849",
   "lastOpenFiles": [
-    "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "Công việc/Run as different user.md",
+    "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "Phật Pháp/Thực hành thiền/phóng dật.md",
     "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
     "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
