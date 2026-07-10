@@ -8,4 +8,3 @@ Hy vọng khi nói về[[ZettelKasten]] và [[Cách ghi chép Zettelkasten]] tô
 Sách vitorius Mind Athony Metivier
 
 19:28 2026-07-08
-/
