@@ -25,13 +25,18 @@
             "id": "b54331f58222a849",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lòng biết ơn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lòng biết ơn"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -245,15 +250,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "292dae7e2fe18ea5",
+  "active": "b54331f58222a849",
   "lastOpenFiles": [
+    "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
     "ZettelKasten/Nhật ký biết ơn/Biết ơn ngày 2026-07-10.md",
     "Lòng biết ơn.md",
     "Phật Pháp/Ứng dụng/hành trình học phật pháp.md",
     "ZettelKasten/Nhật ký biết ơn",
     "Untitled",
     "ZettelKasten/Lợi ích của ghi nhật ký.md",
-    "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
     "conflict-files-obsidian-git.md",
     "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "Công việc/Run as different user.md",
