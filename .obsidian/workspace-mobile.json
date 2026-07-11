@@ -13,8 +13,8 @@
             "state": {
               "type": "smart-env-status-view",
               "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
+              "icon": "lucide-ghost",
+              "title": "smart-env-status-view"
             }
           },
           {
@@ -177,9 +177,19 @@
           "icon": "lucide-ghost",
           "title": "git-view"
         }
+      },
+      {
+        "id": "274c0e7e130b7cc2",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-view",
+          "state": {},
+          "icon": "smart-connections",
+          "title": "Connections"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +206,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae93caa120928fd5",
+  "active": "f71d0750015c4b1b",
   "lastOpenFiles": [
     "2. Biết ơn 2026-07-11.md",
     "ZettelKasten/Nhật ký biết ơn/Biết ơn ngày 2026-07-10.md",
