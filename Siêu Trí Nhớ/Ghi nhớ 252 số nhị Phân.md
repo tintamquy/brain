@@ -13,6 +13,9 @@
 111100  010001  100111
 011010  110010  010111
 
+127736  763756 532155
+
+
 thử thách trong [[hành trình luyện tập siêu trí nhớ]]  , mâu thuẫn với [[phóng dật]], và ứng dụng và trong [[hành trình học phật pháp]]
 hy vọng có thể gặp lại ghi chú này khi  [[việc làm]] gặp bế tắc hướng đi. 
 
