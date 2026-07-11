@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0975a2d6973399",
+        "id": "78a8f7bffcd600fd",
         "type": "tabs",
         "children": [
           {
-            "id": "84fbb84be07d9693",
+            "id": "7243434de9f5cf02",
+            "type": "leaf",
+            "state": {
+              "type": "smart-env-status-view",
+              "state": {},
+              "icon": "gauge",
+              "title": "Smart Environment Status"
+            }
+          },
+          {
+            "id": "9dfb1e7de4a8cd26",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ae93caa120928fd5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +37,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,10 +196,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "84fbb84be07d9693",
+  "active": "ae93caa120928fd5",
   "lastOpenFiles": [
-    "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
+    "2. Biết ơn 2026-07-11.md",
+    "ZettelKasten/Nhật ký biết ơn/Biết ơn ngày 2026-07-10.md",
+    "ZettelKasten/Nhật ký biết ơn",
+    "Phật Pháp/Thực hành thiền/Lòng biết ơn.md",
+    "Phật Pháp/Thực hành thiền/Chánh niệm.md",
+    "Phật Pháp/Thực hành thiền/phóng dật.md",
+    "Phật Pháp/Ứng dụng/hành trình học phật pháp.md",
+    "Phật Pháp/Thực hành thiền/ngã mạn.md",
     "ZettelKasten/Lợi ích của ghi nhật ký.md",
+    "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
     "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "Phật Pháp/Thực hành thiền/đối trị phóng dật.md",
     "Công việc/Run as different user.md",
@@ -194,25 +223,17 @@
     "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "VBU/Đại Cương Tâm Lý Học",
     "VBU",
-    "Phật Pháp/Ứng dụng/hành trình học phật pháp.md",
     "Phật Pháp/Ứng dụng/tiếng pali.md",
     "Phật Pháp/Ứng dụng/sám hối.md",
     "Phật Pháp/Ứng dụng",
     "Phật Pháp/Tứ Diệu Đế/niết bàn.md",
     "Phật Pháp/Tứ Diệu Đế/Khổ đế.md",
     "Phật Pháp/Tứ Diệu Đế/Ái biệt ly là khổ.md",
-    "Phật Pháp/Tứ Diệu Đế/Tứ diệu đế.md",
-    "Phật Pháp/Tứ Diệu Đế/Nguyên nhân của giải thoát.md",
-    "Phật Pháp/Tứ Diệu Đế/Chân lý.md",
-    "Phật Pháp/Tứ Diệu Đế/Phật pháp.md",
     "Phật Pháp/Tứ Diệu Đế",
-    "Phật Pháp/Thực hành thiền/Tứ niệm xứ.md",
-    "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
     "Phật Pháp/Thực hành thiền",
     "Phật Pháp/Tam Tổ Huyền Quang",
     "Phật Pháp/HT Tịnh Không",
     "Phật Pháp",
-    "Untitled.base",
     "Untitled.canvas",
     "1783248223374.png"
   ]
