@@ -25,4 +25,3 @@ Tư tưởng này là một tư tưởng rất hay ta có thể áp dụng trự
 Viết vào buổi sáng 08:56  2026-07-08
 
 Trích từ Sách: Minh triết trong Phật Giáo Việt Nam - Gs.Ts.Nguyễn Hùng Hậu. Tr 139. 
-/com
