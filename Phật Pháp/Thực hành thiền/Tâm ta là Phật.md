@@ -26,4 +26,3 @@ Viết vào buổi sáng 08:56  2026-07-08
 
 Trích từ Sách: Minh triết trong Phật Giáo Việt Nam - Gs.Ts.Nguyễn Hùng Hậu. Tr 139. 
 
-/
