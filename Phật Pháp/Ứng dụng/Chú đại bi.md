@@ -8,4 +8,3 @@ hỗ trợ bổ sung ý nghĩa cho [[Ngồi thiền]] dễ đi vào định lự
 
 hy vọng sẽ gặp lại ghi chú này khi tâm [[phóng dật]]
 
-/
