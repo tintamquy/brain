@@ -11,10 +11,14 @@
             "id": "ad6a1d874300b3c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chú đại bi.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chú đại bi"
             }
           }
         ]
@@ -219,8 +223,10 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "78d8aaeedca9746b",
+  "active": "ad6a1d874300b3c5",
   "lastOpenFiles": [
+    "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
+    "Chú đại bi.md",
     "Excalidraw/Drawing 2026-07-11 14.19.36.excalidraw.md",
     "Excalidraw/Drawing 2026-07-11 14.19.30.excalidraw.md",
     "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
@@ -241,7 +247,6 @@
     "VBU",
     "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
     "Tiếng Trung",
-    "Siêu Trí Nhớ/hành trình luyện tập siêu trí nhớ.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "Siêu Trí Nhớ/Ghi nhớ 252 số nhị Phân.md",
     "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
@@ -252,7 +257,6 @@
     "Phật Pháp/Tứ Diệu Đế/Ái biệt ly là khổ.md",
     "Phật Pháp/Tứ Diệu Đế/niết bàn.md",
     "Phật Pháp/Tứ Diệu Đế/Tứ diệu đế.md",
-    "Phật Pháp/Tứ Diệu Đế/Phật pháp.md",
     "Phật Pháp/Ứng dụng",
     "Phật Pháp/Tứ Diệu Đế",
     "Phật Pháp/Thực hành thiền",
