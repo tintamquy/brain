@@ -41,7 +41,7 @@ Những phương pháp ôn tập như thường thầy của thầy anthony meti
 31. nước khớp
 32. nước tiểu
 
-sẽ bổ trợ cho các pháp tu [[Tứ niệm xứ]]  chứng ngộ [[Tứ diệu đế]],  giúp đối trị [[ngã mạn]] và tâm [[tham dục]] vì khi đó ta biết thân ta là tập hợp bời đầy những thứ bẩn thỉu, đối trị với được [[phóng dật]] vì giúp ta đạt được sức định vì đây là một bài thiền, có thể áp dụng ngay vào [[sự nghiệp]] và việc học [[hành trình học phật pháp]] của chính bản thân mình. 
+niệm 32 thể dơ uế sẽ bổ trợ cho các pháp tu trong  [[Tứ niệm xứ]]  chứng ngộ [[Tứ diệu đế]],  giúp đối trị [[ngã mạn]] và tâm [[tham dục]] vì khi đó ta biết thân ta là tập hợp bời đầy những thứ bẩn thỉu, đối trị với được [[phóng dật]] vì giúp ta đạt được sức định vì đây là một bài thiền, có thể áp dụng ngay vào [[sự nghiệp]] và việc học [[hành trình học phật pháp]] của chính bản thân mình. 
 Tôi muốn nhìn lại ghi chú này khi ngã mạn và tâm [[tham dục]] nổi lên và khi ngã mạn của mình nổi lên. 
 
 ---
