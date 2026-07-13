@@ -25,17 +25,14 @@
             "id": "881b2a51e4eb3a00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giới thiệu Tam Tổ Huyền Quang"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -250,10 +247,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6e60803aaf8daa3",
+  "active": "881b2a51e4eb3a00",
   "lastOpenFiles": [
-    "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+    "Untitled 1.canvas",
+    "2026-07-13.md",
+    "Untitled.canvas",
+    "Phật Pháp/Tứ Niệm Xứ/Tu Tập Qua Kinh Nghiệm Cái Chết.md",
     "Phật Pháp/Tứ Niệm Xứ/Niệm 9 giai đoạn phân hủy xác chết.md",
+    "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
     "Phật Pháp/Thực hành thiền/phóng dật.md",
     "Công việc/việc làm.md",
     "Công việc/sự nghiệp.md",
@@ -268,7 +269,6 @@
     "Phật Pháp/Ứng dụng/hành trình học phật pháp.md",
     "Phật Pháp/Ứng dụng/sám hối.md",
     "Phật Pháp/Ứng dụng/tiếng pali.md",
-    "Phật Pháp/Tứ Niệm Xứ/Tu Tập Qua Kinh Nghiệm Cái Chết.md",
     "Phật Pháp/Tứ Diệu Đế/tham dục.md",
     "Phật Pháp/Tứ Diệu Đế/Phật pháp.md",
     "Phật Pháp/Tứ Diệu Đế/Nguyên nhân của giải thoát.md",
@@ -276,10 +276,7 @@
     "quán bất tịnh.md",
     "Phật Pháp/Tứ Niệm Xứ/Niệm 32 thể trược.md",
     "Phật Pháp/Tứ Niệm Xứ/Tứ niệm xứ.md",
-    "Phật Pháp/Tam Tổ Huyền Quang/cuộc đời tam tổ Huyền Quang.md",
-    "Phật Pháp/Thực hành thiền/Ngồi thiền.md",
     "Phật Pháp/Tứ Niệm Xứ",
-    "Untitled.canvas",
     "Excalidraw",
     "ZettelKasten/Nhật ký biết ơn/Lòng Biết Ơn",
     "ZettelKasten/Nhật ký biết ơn",
