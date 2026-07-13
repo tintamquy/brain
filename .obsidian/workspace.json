@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 252 số nhị Phân.md",
+                "file": "Công việc/Hãy khôn ngoan ứng xử.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghi nhớ 252 số nhị Phân"
+              "title": "Hãy khôn ngoan ứng xử"
+            }
+          },
+          {
+            "id": "881b2a51e4eb3a00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -237,9 +247,10 @@
   },
   "active": "292dae7e2fe18ea5",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Siêu Trí Nhớ/Ghi nhớ 252 số nhị Phân.md",
     "Excalidraw/Drawing 2026-07-11 14.19.30.excalidraw.md",
     "Excalidraw/Drawing 2026-07-11 14.19.36.excalidraw.md",
-    "Siêu Trí Nhớ/Ghi nhớ 252 số nhị Phân.md",
     "Excalidraw",
     "2026-07-11.md",
     "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
@@ -265,7 +276,6 @@
     "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
     "ZettelKasten/Cách ghi chép Zettelkasten.md",
     "ZettelKasten/Ghi chép Obsidian.md",
-    "Excalidraw/Drawing 2026-07-08 09.09.20.excalidraw.md",
     "Phật Pháp/Ứng dụng",
     "Phật Pháp/Tứ Diệu Đế",
     "Phật Pháp/Tam Tổ Huyền Quang",
@@ -274,7 +284,6 @@
     "VBU",
     "Phật Pháp/Thực hành thiền",
     "Untitled.base",
-    "Untitled.canvas",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png"
   ]
