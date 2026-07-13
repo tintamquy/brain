@@ -4,7 +4,7 @@ Các giáo thọ sư của ngài nói rằng việc tu tập thông qua truyền
 
 
 Điều này bổ sung cho [[Chánh niệm]] trong đời sống, nó đối nghịch và làm giảm đi sự [[phóng dật]], sẽ rất tốt nếu có thể áp dụng vào trong thực tế với  [[hành trình học phật pháp]] trong cuộc sống hàng ngày. 
-tôi muốn nhìn thấy ghi chú này lại khi những lần tiếp theo nghiên cứu về [[niệm 9 giai đoạn phân hủy xác chết]]
+tôi muốn nhìn thấy ghi chú này lại khi những lần tiếp theo nghiên cứu về [[Niệm 9 giai đoạn phân hủy xác chết]]
 
 ---
 
