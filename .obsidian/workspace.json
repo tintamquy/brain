@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -53,7 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -245,12 +244,28 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "b049a4cb876a98a0",
+  "active": "c2f43c9dbffe9d8e",
   "lastOpenFiles": [
+    "Công việc/Nỗi sợ mất việc.md",
+    "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+    "Công việc/việc làm.md",
+    "Công việc/Run as different user.md",
+    "Phật Pháp/Thực hành thiền/Nhật ký thiền định/Ngồi thiền.md",
+    "Phật Pháp/Thực hành thiền/Nhật ký thiền định/Ngồi thiền nhật ký.md",
+    "Phật Pháp/Thực hành thiền/Chánh niệm.md",
+    "Phật Pháp/Thực hành thiền/Nhật ký thiền định",
+    "Phật Pháp/Thực hành thiền/Niệm Phật.md",
+    "Phật Pháp/Thực hành thiền/phóng dật.md",
+    "Phật Pháp/Tứ Diệu Đế/Chân lý.md",
+    "Phật Pháp/Tứ Diệu Đế/Ái biệt ly là khổ.md",
+    "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
+    "Phật Pháp/Thực hành thiền/ngã mạn.md",
+    "ZettelKasten/Nhật ký biết ơn/3. thankful 2026-07-13.md",
+    "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
+    "ZettelKasten/Nhật ký biết ơn/2. Biết ơn 2026-07-11.md",
     "Phật Pháp/Ứng Dụng/sám hối.md",
     "Phật Pháp/Ứng Dụng/hành trình học phật pháp.md",
     "Phật Pháp/Ứng Dụng/Chú đại bi.md",
-    "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
     "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
     "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
     "conflict-files-obsidian-git.md",
@@ -258,24 +273,9 @@
     "Phật Pháp/Ứng dụng/sám hối.md",
     "Phật Pháp/Ứng Dụng/tiếng pali.md",
     "Phật Pháp/Ứng Dụng/Cách hồi hướng.md",
-    "Phật Pháp/Ứng Dụng/Chăn Trâu.md",
-    "Phật Pháp/Ứng Dụng/4 cái ngu.md",
     "Phật Pháp/Ứng Dụng",
-    "ZettelKasten/Nhật ký biết ơn/3.  thankful 2026-07-13.md",
     "Untitled.canvas",
-    "2026-07-14.md",
-    "ZettelKasten/Nhật ký biết ơn/3. thankful 2026-07-13.md",
-    "Phật Pháp/Ứng dụng/Cách hồi hướng.md",
-    "ZettelKasten/Tập trung vào ý tưởng đừng phóng dật.md",
-    "ZettelKasten/Lợi ích của ghi nhật ký.md",
-    "ZettelKasten/Khi không biết làm gì.md",
-    "Siêu Trí Nhớ/Nhật ký luyện tập STN 2026-07-13.md",
-    "Phật Pháp/Ứng dụng/Hồi hướng.md",
-    "Siêu Trí Nhớ/Ghi nhớ 252 số nhị Phân.md",
-    "Phật Pháp/Tứ Niệm Xứ/Niệm 9 giai đoạn phân hủy xác chết.md",
-    "Phật Pháp/HT Tịnh Không/Thành kính với thiện tri thức..md",
     "Untitled 1.canvas",
-    "2026-07-13.md",
     "Phật Pháp/Tứ Niệm Xứ",
     "Excalidraw",
     "ZettelKasten/Nhật ký biết ơn/Lòng Biết Ơn",
@@ -285,7 +285,6 @@
     "Phật Pháp/Tam Tổ Huyền Quang",
     "Phật Pháp/Untitled.canvas",
     "VBU/Đại Cương Tâm Lý Học",
-    "VBU",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png"
   ]
