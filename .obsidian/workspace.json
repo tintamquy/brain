@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
+                "file": "Phật Pháp/Ứng Dụng/Chú đại bi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hành trình 100 ngày biết ơn"
+              "title": "Chú đại bi"
+            }
+          },
+          {
+            "id": "b049a4cb876a98a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -213,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -237,17 +247,17 @@
   },
   "active": "f6e60803aaf8daa3",
   "lastOpenFiles": [
-    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
+    "Phật Pháp/Ứng Dụng/Chú đại bi.md",
+    "Phật Pháp/Ứng Dụng/sám hối.md",
     "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
+    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
     "conflict-files-obsidian-git.md",
     "Phật Pháp/Ứng dụng/tiếng pali.md",
     "Phật Pháp/Ứng dụng/sám hối.md",
     "Phật Pháp/Ứng Dụng/tiếng pali.md",
-    "Phật Pháp/Ứng Dụng/sám hối.md",
     "Phật Pháp/Ứng Dụng/hành trình học phật pháp.md",
     "Phật Pháp/Ứng Dụng/Cách hồi hướng.md",
     "Phật Pháp/Ứng Dụng/Chăn Trâu.md",
-    "Phật Pháp/Ứng Dụng/Chú đại bi.md",
     "Phật Pháp/Ứng Dụng/4 cái ngu.md",
     "Phật Pháp/Ứng Dụng",
     "ZettelKasten/Nhật ký biết ơn/3.  thankful 2026-07-13.md",
