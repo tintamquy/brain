@@ -10,7 +10,7 @@ Lòng biết ơn là một phương pháp tu tập vô cùng mạnh mẽ trong c
 
 bổ sung ý nghĩa cho [[Niệm Phật]], đối nghịch với [[ngã mạn]] và ứng dụng thực tế vào [[việc làm]] tôi sẽ muốn gặp lại ghi chú này trong lần chỉnh sửa [[ZettelKasten]] tiếp theo. và khi nào gặp khó khăn trong tu tập tôi muốn sẽ được nhìn lại ghi chú này. [[hành trình học phật pháp]]
 
-
+Tôi muốn thực tập lòng biết ơn này trong [[Hành trình 100 ngày biết ơn]]
 
 
 
