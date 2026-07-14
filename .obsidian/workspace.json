@@ -242,8 +242,7 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
   "active": "b049a4cb876a98a0",
