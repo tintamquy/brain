@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -226,8 +225,19 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "203d27344be789bd",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -245,13 +255,14 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b049a4cb876a98a0",
+  "active": "f6e60803aaf8daa3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+    "conflict-files-obsidian-git.md",
     "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
     "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
     "ZettelKasten/Nhật ký biết ơn/2. Biết ơn 2026-07-11.md",
