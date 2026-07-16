@@ -1,42 +1,41 @@
 {
   "main": {
-    "id": "a08ce5ad2b2d3d45",
+    "id": "ca51f2cfd67cd8a6",
     "type": "split",
     "children": [
       {
-        "id": "8de3431fe83858da",
+        "id": "c358af4072d975a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f6e60803aaf8daa3",
+            "id": "78d8aaeedca9746b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/5. biết ơn 2026-07-15.md",
+                "file": "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. biết ơn 2026-07-15"
+              "title": "Ghi nhớ 252 số nhị Phân"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "308a3e149739a92d",
+    "id": "c8b0259b4e8e4c6b",
     "type": "split",
     "children": [
       {
-        "id": "94ba03403ec739ad",
+        "id": "d2100e75d69458b8",
         "type": "tabs",
         "children": [
           {
-            "id": "c2f43c9dbffe9d8e",
+            "id": "e86430e962441002",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +48,12 @@
             }
           },
           {
-            "id": "de54433e5fdac23b",
+            "id": "6127e483648c8905",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ngu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +65,7 @@
             }
           },
           {
-            "id": "0024e89f9e065284",
+            "id": "582c25e5f0cf0eab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,47 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 300
   },
   "right": {
-    "id": "92db40bbdee139b3",
+    "id": "5778c3da53363b42",
     "type": "split",
     "children": [
       {
-        "id": "c3b3d99b8b6ec76e",
+        "id": "e4e6eec773d23356",
         "type": "tabs",
         "children": [
           {
-            "id": "40ba9fa298c28934",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "227ce841101bd2c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phật Pháp/Thực hành thiền/Niệm Phật.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Niệm Phật"
-            }
-          },
-          {
-            "id": "28e30f293869f8e6",
+            "id": "1a15d7a24ebb2488",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ghi nhớ 120 số ngẫu nhiên"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "e1419cd06c05cada",
+            "id": "52224bf3034d1584",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Biết ơn 2026-07-14"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "ec0d81a4aecddd5b",
+            "id": "b09d6556d5d3a6d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,7 +137,7 @@
             }
           },
           {
-            "id": "71dd00956c79580d",
+            "id": "149d69fde845de07",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -176,22 +151,32 @@
             }
           },
           {
-            "id": "00651931323512b5",
+            "id": "02fda0ad49e7ca70",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+                "file": "Welcome.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Biết ơn 2026-07-14"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "ffb504c385861937",
+            "id": "fea9f476d17d273f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "9a3b4c9a03d39afb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,35 +184,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "faa9ec7bde33e874",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "203d27344be789bd",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,52 +204,46 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "f6e60803aaf8daa3",
+  "active": "78d8aaeedca9746b",
   "lastOpenFiles": [
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/hành trình luyện tập siêu trí nhớ.md",
-    "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "ZettelKasten/Nhật ký biết ơn/5. biết ơn 2026-07-15.md",
-    "ZettelKasten/Nhật ký biết ơn/Untitled",
-    "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
-    "conflict-files-obsidian-git.md",
+    "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
+    "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
     "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
-    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
-    "ZettelKasten/Nhật ký biết ơn/2. Biết ơn 2026-07-11.md",
-    "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
-    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
-    "Công việc/Hãy khôn ngoan ứng xử.md",
-    "Phật Pháp/Hành trình học Phật Pháp",
+    "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+    "ZettelKasten/Nhật ký biết ơn/3. thankful 2026-07-13.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/hành trình luyện tập siêu trí nhớ.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Nhật ký luyện tập STN 2026-07-13.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ",
-    "Công việc/Nỗi sợ mất việc.md",
-    "Công việc/việc làm.md",
-    "Công việc/Run as different user.md",
+    "Phật Pháp/Ứng Dụng/tiếng pali.md",
+    "Phật Pháp/Ứng Dụng/sám hối.md",
+    "Phật Pháp/Ứng Dụng/Cách hồi hướng.md",
+    "Phật Pháp/Ứng Dụng/Chăn Trâu.md",
+    "Phật Pháp/Ứng Dụng/Chú đại bi.md",
+    "Phật Pháp/Ứng Dụng/4 cái ngu.md",
+    "Phật Pháp/Ứng Dụng",
     "Phật Pháp/Thực hành thiền/Nhật ký thiền định/Ngồi thiền.md",
     "Phật Pháp/Thực hành thiền/Nhật ký thiền định/Ngồi thiền nhật ký.md",
-    "Phật Pháp/Thực hành thiền/Chánh niệm.md",
     "Phật Pháp/Thực hành thiền/Nhật ký thiền định",
-    "Phật Pháp/Thực hành thiền/Niệm Phật.md",
-    "Phật Pháp/Thực hành thiền/phóng dật.md",
-    "Phật Pháp/Tứ Diệu Đế/Chân lý.md",
-    "Phật Pháp/Tứ Diệu Đế/Ái biệt ly là khổ.md",
-    "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
-    "Phật Pháp/Thực hành thiền/ngã mạn.md",
-    "ZettelKasten/Nhật ký biết ơn/3. thankful 2026-07-13.md",
-    "Phật Pháp/Ứng Dụng",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md",
+    "Phật Pháp/Hành trình học Phật Pháp",
+    "conflict-files-obsidian-git.md",
+    "Phật Pháp/Ứng dụng/Cách hồi hướng.md",
+    "Công việc/kiếm tiền.md",
+    "Công việc/việc làm.md",
+    "Phật Pháp/Tứ Niệm Xứ/Niệm 32 thể trược.md",
+    "Phật Pháp/Tứ Diệu Đế/tham dục.md",
+    "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
     "Phật Pháp/Tứ Niệm Xứ",
-    "Excalidraw",
-    "ZettelKasten/Nhật ký biết ơn/Lòng Biết Ơn",
     "ZettelKasten/Nhật ký biết ơn",
-    "Phật Pháp/Ứng dụng",
-    "Phật Pháp/Untitled.canvas",
-    "Pasted image 20260706170923.png",
-    "Pasted image 20260706170722.png"
+    "ZettelKasten",
+    "VBU/Đại Cương Tâm Lý Học",
+    "VBU",
+    "Tiếng Trung"
   ]
 }
