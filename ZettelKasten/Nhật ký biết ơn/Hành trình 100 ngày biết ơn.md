@@ -8,5 +8,6 @@ trong 100 ngày này tôi sẽ viết 100 ghi chú thể hiện [[Lòng biết �
 
 tôi muốn gặp lại note này sau 97 ngày nữa sau khi hoàn thành xong thử thách 100 ngày thể hiện lòng biết ơn này.  
 
+
 ---
 2026-07-14   11:57
