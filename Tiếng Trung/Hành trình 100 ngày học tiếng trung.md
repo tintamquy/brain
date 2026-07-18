@@ -1,0 +1,1 @@
+tôi sẽ cố gắng áp dụng [[Siêu trí nhớ tiếng trung]] vào thử thách 100 ngày học tiếng trung cải thiện [[việc làm]]

@@ -11,13 +11,32 @@
             "id": "a42571e3ed5d1e46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hành trình 100 ngày học tiếng trung"
+            }
+          },
+          {
+            "id": "49d750c9ff6c5948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ghi nhớ 120 số ngẫu nhiên"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -134,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Biết ơn 2026-07-14"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -177,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Biết ơn 2026-07-14"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -202,7 +221,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Siêu Trí Nhớ/Ghi nhớ 120 số ngẫu nhiên.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -218,12 +237,11 @@
               "title": "Timer"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 727.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +259,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "a42571e3ed5d1e46",
+  "active": "49d750c9ff6c5948",
   "lastOpenFiles": [
+    "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
+    "conflict-files-obsidian-git.md",
+    "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
+    "Phật Pháp/Thực hành thiền/Niệm Phật.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi Nhớ 2 bộ bài tây.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
@@ -260,7 +282,6 @@
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "ZettelKasten/Nhật ký biết ơn/Untitled",
     "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
-    "conflict-files-obsidian-git.md",
     "ZettelKasten/Nhật ký biết ơn/2. Biết ơn 2026-07-11.md",
     "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
     "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
@@ -269,9 +290,6 @@
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ",
     "Công việc/Nỗi sợ mất việc.md",
     "Công việc/việc làm.md",
-    "Công việc/Run as different user.md",
-    "Phật Pháp/Thực hành thiền/Nhật ký thiền định/Ngồi thiền.md",
-    "Phật Pháp/Thực hành thiền/Nhật ký thiền định/Ngồi thiền nhật ký.md",
     "Phật Pháp/Thực hành thiền/Nhật ký thiền định",
     "Phật Pháp/Ứng Dụng",
     "Untitled.canvas",
