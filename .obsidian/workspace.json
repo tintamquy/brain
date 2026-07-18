@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
+                "file": "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ngày 01. thiền định 2026-07-18"
+              "title": "Backlinks for trí tuệ nhân tạo"
             }
           },
           {
@@ -153,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
+                "file": "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ngày 01. thiền định 2026-07-18"
+              "title": "Outgoing links from trí tuệ nhân tạo"
             }
           },
           {
@@ -196,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
+                "file": "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ngày 01. thiền định 2026-07-18"
+              "title": "Outline of trí tuệ nhân tạo"
             }
           },
           {
@@ -221,7 +220,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md"
+                "file": "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -259,10 +258,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c2f43c9dbffe9d8e",
+  "active": "a42571e3ed5d1e46",
   "lastOpenFiles": [
-    "Phật Pháp/Hành Trình 100 ngày thiền định/Hành trình 100 ngày thiền định.md",
     "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
+    "Phật Pháp/Hành Trình 100 ngày thiền định/Hành trình 100 ngày thiền định.md",
     "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md",
     "Phật Pháp/Hành Trình 100 ngày thiền định",
     "Tiếng Trung/ngày 01. học tiếng trung 2026-07-18.md",
