@@ -29,5 +29,3 @@ A♣ 9♣ 6♣       K♣ 2♥ 5♥       J♥ 8♣ 10♦
 
 [[hành trình luyện tập siêu trí nhớ]]    với mong muốn cải thiện [[Mnemoic Loci  X  ZettelKasten]]    nâng cao năng lực làm việc, và học các bộ môn học tại học viện phật giáo thành phố hồ chí minh. 
 
-
-/
