@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiếng Trung/ngày 01 - 100 ngày học tiếng trung 2026-07-18.md",
+                "file": "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ngày 01 - 100 ngày học tiếng trung 2026-07-18"
+              "title": "trí tuệ nhân tạo"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Gia Sư.md",
+                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Gia Sư"
+              "title": "ngày 01. thiền định 2026-07-18"
             }
           }
         ],
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 360.5
   },
   "right": {
     "id": "92db40bbdee139b3",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Gia Sư.md",
+                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Gia Sư"
+              "title": "Backlinks for ngày 01. thiền định 2026-07-18"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Gia Sư.md",
+                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Gia Sư"
+              "title": "Outgoing links from ngày 01. thiền định 2026-07-18"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Gia Sư.md",
+                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Gia Sư"
+              "title": "Outline of ngày 01. thiền định 2026-07-18"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "AI Gia Sư.md"
+                "file": "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -259,10 +259,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "9a7e65880a2494b8",
+  "active": "c2f43c9dbffe9d8e",
   "lastOpenFiles": [
-    "Tiếng Trung/ngày 01 - 100 ngày học tiếng trung 2026-07-18.md",
-    "AI Gia Sư.md",
+    "Phật Pháp/Hành Trình 100 ngày thiền định/Hành trình 100 ngày thiền định.md",
+    "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
+    "AI Trí Tuệ Nhân Tạo/trí tuệ nhân tạo.md",
+    "Phật Pháp/Hành Trình 100 ngày thiền định",
+    "Tiếng Trung/ngày 01. học tiếng trung 2026-07-18.md",
+    "AI Trí Tuệ Nhân Tạo/AI Gia Sư.md",
     "AI Trí Tuệ Nhân Tạo",
     "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
     "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
@@ -286,9 +290,6 @@
     "conflict-files-obsidian-git.md",
     "Phật Pháp/Thực hành thiền/Niệm Phật.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/hành trình luyện tập siêu trí nhớ.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Nhật ký luyện tập STN 2026-07-13.md",
     "ZettelKasten/Nhật ký biết ơn/Untitled",
     "Phật Pháp/Hành trình học Phật Pháp",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ",
@@ -298,7 +299,6 @@
     "Untitled 1.canvas",
     "Phật Pháp/Tứ Niệm Xứ",
     "Excalidraw",
-    "ZettelKasten/Nhật ký biết ơn/Lòng Biết Ơn",
     "Phật Pháp/Untitled.canvas",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png"
