@@ -9,4 +9,3 @@ việc sân hận thật sự ngu dốt, si mê.
 [[Lòng biết ơn]] là cái có thể diệt trừ được sự sân giận, và ứng dụng thực tế vào cuộc sống là khi giảm  trừ được sân giận sẽ giảm trừ được [[ngã mạn]]
 tôi muốn gặp  lại ghi chú về sân hận này khi nghiên cứu và thuyết trình truyền đạt lại khi nói về [[Tứ diệu đế]]  và tự mình đối trị vọng niệm sân khởi lên khi [[Ngồi thiền]]
 
-/com
