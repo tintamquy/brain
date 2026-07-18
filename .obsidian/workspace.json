@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md",
+                "file": "Phật Pháp/Tứ Diệu Đế/Tập Đế/Sân giận.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hành trình học phật pháp"
+              "title": "Sân giận"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md",
+                "file": "Phật Pháp/Tứ Diệu Đế/Tập Đế/Sân giận.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hành trình học phật pháp"
+              "title": "Backlinks for Sân giận"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md",
+                "file": "Phật Pháp/Tứ Diệu Đế/Tập Đế/Sân giận.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hành trình học phật pháp"
+              "title": "Outgoing links from Sân giận"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md",
+                "file": "Phật Pháp/Tứ Diệu Đế/Tập Đế/Sân giận.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hành trình học phật pháp"
+              "title": "Outline of Sân giận"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md"
+                "file": "Phật Pháp/Tứ Diệu Đế/Tập Đế/Sân giận.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -244,10 +244,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c2f43c9dbffe9d8e",
+  "active": "a42571e3ed5d1e46",
   "lastOpenFiles": [
-    "Phật Pháp/HT Tịnh Không/Niềm vui từ học tập.md",
     "Phật Pháp/Hành trình học Phật Pháp/hành trình học phật pháp.md",
+    "Phật Pháp/Tứ Diệu Đế/Tập Đế/Sân giận.md",
+    "Phật Pháp/Tứ Diệu Đế/Tập Đế",
+    "VBU/Đại Cương Tâm Lý Học/Untitled.md",
+    "Phật Pháp/HT Tịnh Không/Niềm vui từ học tập.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi Nhớ 2 bộ bài tây.md",
     "Tiếng Trung/Siêu trí nhớ tiếng trung.md",
     "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
@@ -271,8 +274,6 @@
     "ZettelKasten/Nhật ký biết ơn/4. Biết ơn 2026-07-14.md",
     "ZettelKasten/Nhật ký biết ơn/2. Biết ơn 2026-07-11.md",
     "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
-    "VBU/Đại Cương Tâm Lý Học/Tám điều mục.md",
-    "Công việc/Hãy khôn ngoan ứng xử.md",
     "Phật Pháp/Hành trình học Phật Pháp",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ",
     "Phật Pháp/Thực hành thiền/Nhật ký thiền định",
@@ -283,7 +284,6 @@
     "Excalidraw",
     "ZettelKasten/Nhật ký biết ơn/Lòng Biết Ơn",
     "ZettelKasten/Nhật ký biết ơn",
-    "Phật Pháp/Ứng dụng",
     "Phật Pháp/Untitled.canvas",
     "Pasted image 20260706170923.png",
     "Pasted image 20260706170722.png"
