@@ -5,3 +5,4 @@ tình trạng hiện tại:
 - không thiền định
 - ngồi thiệt một ngày chỉ được 5 phút. 
 - chỉ có niệm Nam Mô A Di Đà Phật thôi, không hề có thói quen tập khí và năng lượng thiền định. 
+
