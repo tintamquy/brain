@@ -1,5 +1,5 @@
 Học thuộc chú đại bi mỗi ngày 7 biến để xin cho 
-- trí nhớ, trí tuệ, hỗ trợ [[hành trình luyện tập siêu trí nhớ]]
+- trí nhớ, trí tuệ, hỗ trợ [[hành trình 100 ngày luyện siêu trí nhớ]]
 - thuận lợi [[sự nghiệp]]
 
 Chỉ hồi hướng một mục tiêu trong một thời điểm thôi thì mới dễ đạt được thành quá. hồi hướng quá rộng quá nhiều thì khó lòng mà đạt được. 

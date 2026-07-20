@@ -9,4 +9,4 @@ lưu ý chỉ một ý tưởng duy nhất cho mỗi ghi chép.
 
 
 
-[[Ghi chép Obsidian]], [[phóng dật]], [[việc làm]], [[hành trình luyện tập siêu trí nhớ]],[[Siêu trí nhớ tiếng trung]]
+[[Ghi chép Obsidian]], [[phóng dật]], [[việc làm]], [[hành trình 100 ngày luyện siêu trí nhớ]],[[Siêu trí nhớ tiếng trung]]

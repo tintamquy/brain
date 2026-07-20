@@ -1,7 +1,7 @@
 hiện tại tôi không biết cách làm sao để tâm [[phóng dật]] được lắng xuống? 
 hãy chỉ cho tôi biết cách nhé vũ trụ. 
 
-[[hành trình học phật pháp]], [[hành trình luyện tập siêu trí nhớ]] , 
+[[hành trình học phật pháp]], [[hành trình 100 ngày luyện siêu trí nhớ]] , 
 
 có thể là dùng tâm [[Thành kính với thiện tri thức.]]  sẽ giúp ta hết đối trị phóng dật không? 
 

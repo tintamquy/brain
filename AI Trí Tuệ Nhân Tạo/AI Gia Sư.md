@@ -9,7 +9,7 @@ Tạo ra những gia sư AI thay cho tất cả các gia sư tốt nhất thế 
 AI này sẽ thiết lập và ứng dụng cho 
 [[Hành trình 100 ngày học tiếng trung]]
 [[hành trình học phật pháp]]
-[[hành trình luyện tập siêu trí nhớ]]
+[[hành trình 100 ngày luyện siêu trí nhớ]]
 [[Hành trình 100 ngày biết ơn]]
 [[Hành trình 100 ngày thiền định]]
 

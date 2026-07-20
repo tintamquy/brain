@@ -7,4 +7,4 @@ Là ngành khoa học máy tính mô tả cách thức mà con người tư duy.
 
 bổ sung ý nghĩa cho [[Hành trình 100 ngày học tiếng trung]]   đối lập với việc [[ngã mạn]] không chịu học hỏi
 
-ứng dụng ngay lập tức vào những [[hành trình luyện tập siêu trí nhớ]]
+ứng dụng ngay lập tức vào những [[hành trình 100 ngày luyện siêu trí nhớ]]

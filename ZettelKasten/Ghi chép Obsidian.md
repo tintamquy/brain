@@ -9,10 +9,10 @@ Cứ ghi chép note ra, cứ làm đi. Không cần phải tham khảo nhiều c
 	4. **tôi muốn gặp lại ý tưởng này ở đâu trong tương lai?** 
 
 
-tôi thật sự muốn gặp lại ý tưởng ghi chép này và ứng dụng nó vào tất cả [[hành trình học phật pháp]] và [[hành trình luyện tập siêu trí nhớ]] của mình trong tương lai. 
+tôi thật sự muốn gặp lại ý tưởng ghi chép này và ứng dụng nó vào tất cả [[hành trình học phật pháp]] và [[hành trình 100 ngày luyện siêu trí nhớ]] của mình trong tương lai. 
 
 
-[[Ngồi thiền]], [[hành trình luyện tập siêu trí nhớ]], [[hành trình học phật pháp]],
+[[Ngồi thiền]], [[hành trình 100 ngày luyện siêu trí nhớ]], [[hành trình học phật pháp]],
 
 Ghi chép rất hay nữa là một biểu đồ tôi xem được data-> infomation-> knowledge ->skill 
 Thể hiện bộ lọc và quá trình nội hoá thông tin. 

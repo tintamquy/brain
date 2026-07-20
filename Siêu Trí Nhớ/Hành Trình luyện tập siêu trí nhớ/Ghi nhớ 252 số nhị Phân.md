@@ -25,7 +25,7 @@
 356153  264663
 
 
-thử thách trong [[hành trình luyện tập siêu trí nhớ]]  , mâu thuẫn với [[phóng dật]], và ứng dụng và trong [[hành trình học phật pháp]]
+thử thách trong [[hành trình 100 ngày luyện siêu trí nhớ]]  , mâu thuẫn với [[phóng dật]], và ứng dụng và trong [[hành trình học phật pháp]]
 hy vọng có thể gặp lại ghi chú này khi  [[việc làm]] gặp bế tắc hướng đi. 
 
 ---

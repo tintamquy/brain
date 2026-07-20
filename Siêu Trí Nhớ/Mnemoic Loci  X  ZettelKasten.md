@@ -7,4 +7,4 @@ Sử dụng Mnemoic
 
 Ngoài ra lưu trữ các căn phòng theo cấu trúc phi tuyến tính. 
 
-điều này tổ chức cho tôi [[hành trình luyện tập siêu trí nhớ]], và tránh lãng quyên và [[phóng dật]] , ứng dụng này rất thực tế khi được áp dụng vào [[việc làm]] và [[hành trình học phật pháp]]
+điều này tổ chức cho tôi [[hành trình 100 ngày luyện siêu trí nhớ]], và tránh lãng quyên và [[phóng dật]] , ứng dụng này rất thực tế khi được áp dụng vào [[việc làm]] và [[hành trình học phật pháp]]
