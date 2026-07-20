@@ -8,13 +8,13 @@ J♦ 5♦ Q♥       4♠ 8♥ 2♣       10♠ 7♠ 3♥
 A♣ 9♣ 6♥       K♠ 2♦ 5♣       J♣ 8♠ 10♦
 3♦ 6♠ Q♣       7♥ 4♦ 9♦       A♥
 
-0   6441jc    16kt20 
-1   81qr56   907431 
-2   01kr-jb   6150qb
-3   842600   36kc71
-4   144096   jr54qc
-5   468021   067630
-6   119160   kb2451
+0   64 41 jc      16 kt 20 
+1   81qr56      907431 
+2   01 kr jb     6150qb
+3   842600   36 kc 71
+4   144096    jr 54 qc
+5   468021    067630
+6   119160     kb2451
 7    jt8604     3466qt
 8    70449410
 
@@ -29,4 +29,7 @@ A♣ 9♣ 6♣       K♣ 2♥ 5♥       J♥ 8♣ 10♦
 
 [[hành trình luyện tập siêu trí nhớ]]    với mong muốn cải thiện [[Mnemoic Loci  X  ZettelKasten]]    nâng cao năng lực làm việc, và học các bộ môn học tại học viện phật giáo thành phố hồ chí minh. 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
