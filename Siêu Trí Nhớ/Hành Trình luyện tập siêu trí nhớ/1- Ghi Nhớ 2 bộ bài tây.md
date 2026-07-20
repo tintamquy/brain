@@ -1,4 +1,5 @@
 
+2026-07-19 luyện tập ghi nhớ bộ bài tây đã hoàn thành. 
 # Bộ bài 1
 
 6♦ 4♣ J♥       A♠ K♣ 2♥       8♣ Q♦ 5♠
