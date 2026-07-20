@@ -8,15 +8,24 @@ J♦ 5♦ Q♥       4♠ 8♥ 2♣       10♠ 7♠ 3♥
 A♣ 9♣ 6♥       K♠ 2♦ 5♣       J♣ 8♠ 10♦
 3♦ 6♠ Q♣       7♥ 4♦ 9♦       A♥
 
-0   6441jc    16kt20 
-1   81qr56   907431 
-2   01kr-jb   6150qb
-3   842600   36kc71
-4   144096   jr54qc
-5   468021   067630
-6   119160   kb2451
-7    jt8604     3466qt
-8    70449410
+
+00   6441jc    
+01  16kt20 
+02  81qr56  
+03  907431 
+04  01kr-jb   
+05  6150qb
+06  842600   
+07  36kc71
+08   144096  
+09   jr54qc
+10   468021 
+11  *067630*
+12   119160  
+13   kb2451
+14     jt8604   
+15   3466qt
+16   70449410
 
 # Bộ bài 2
 
@@ -30,4 +39,3 @@ A♣ 9♣ 6♣       K♣ 2♥ 5♥       J♥ 8♣ 10♦
 [[hành trình luyện tập siêu trí nhớ]]    với mong muốn cải thiện [[Mnemoic Loci  X  ZettelKasten]]    nâng cao năng lực làm việc, và học các bộ môn học tại học viện phật giáo thành phố hồ chí minh. 
 
 
-/
