@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Luyện tập ghi nhớ 100 từ tiếng anh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Luyện tập ghi nhớ 100 từ tiếng anh"
             }
           },
           {
@@ -199,9 +199,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7862b0e2c25e6c1a",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -209,7 +219,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pomodoro-timer:Toggle timer panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -220,10 +229,11 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c25c1e1ceeb3508d",
+  "active": "7862b0e2c25e6c1a",
   "lastOpenFiles": [
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Nhật ký luyện tập STN 2026-07-13.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Luyện tập ghi nhớ 100 từ tiếng anh.md",
