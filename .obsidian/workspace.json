@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Công việc/Hãy khôn ngoan ứng xử.md",
+                "file": "ZettelKasten/Nhật ký biết ơn/13. Biết ơn 2026-07-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hãy khôn ngoan ứng xử"
-            }
-          },
-          {
-            "id": "c25c1e1ceeb3508d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/12. Biết ơn 2026-07-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12. Biết ơn 2026-07-22"
+              "title": "13. Biết ơn 2026-07-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/10. Biết ơn 2026-07-20.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10. Biết ơn 2026-07-20"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -199,19 +184,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "7862b0e2c25e6c1a",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -229,38 +204,37 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "c25c1e1ceeb3508d",
+  "active": "78d8aaeedca9746b",
   "lastOpenFiles": [
-    "ZettelKasten/Nhật ký biết ơn/13. Biết ơn 2026-07-23.md",
+    "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
+    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
     "ZettelKasten/Nhật ký biết ơn/12. Biết ơn 2026-07-22.md",
+    "ZettelKasten/Nhật ký biết ơn/13. Biết ơn 2026-07-23.md",
+    "Công việc/Hãy khôn ngoan ứng xử.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
     "ZettelKasten/Nhật ký biết ơn/11. Biết ơn 2026-07-21.md",
-    "ZettelKasten/Nhật ký biết ơn/10. Biết ơn 2026-07-20.md",
-    "AI Trí Tuệ Nhân Tạo/Đâu là kỹ năng cần thiết trong thời kỳ AI phát triển..md",
-    "AI Trí Tuệ Nhân Tạo/AI Gia Sư.md",
-    "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 01. thiền định 2026-07-18.md",
-    "Công việc/việc làm.md",
     "Siêu Trí Nhớ/Siêu Trí Nhớ Đoạn Văn.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Luyện tập ghi nhớ 100 từ tiếng anh.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Nhật ký luyện tập STN 2026-07-13.md",
-    "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/1- Ghi Nhớ 2 bộ bài tây.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
+    "AI Trí Tuệ Nhân Tạo/Đâu là kỹ năng cần thiết trong thời kỳ AI phát triển..md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi Nhớ 2 bộ bài tây.md",
     "ZettelKasten/Nhật ký biết ơn/9. Biết ơn 2026-07-19.md",
+    "ZettelKasten/Nhật ký biết ơn/10. Biết ơn 2026-07-20.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/hành trình 100 ngày luyện siêu trí nhớ.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/2- Siêu Trí Nhớ - 2026-07-20.md",
-    "Công việc/Hãy khôn ngoan ứng xử.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/1- Ghi Nhớ 2 bộ bài tây.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/hành trình luyện tập siêu trí nhớ.md",
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Nhật ký luyện tập STN 2026-07-13.md",
+    "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
     "ZettelKasten/Nhật ký biết ơn/6. Biết ơn 2026-07-16.md",
     "ZettelKasten/Nhật ký biết ơn/5. biết ơn 2026-07-15.md",
     "ZettelKasten/Nhật ký biết ơn/8. 100 ngày biết ơn 2026-07-18.md",
     "conflict-files-obsidian-git.md",
+    "ZettelKasten/Nhật ký biết ơn/7. Biết ơn  2026-07-17.md",
     "Phật Pháp/Tứ Diệu Đế/Tập Đế",
     "Phật Pháp/Hành trình học Phật Pháp/VBU/Đại Cương Tâm Lý Học",
     "Phật Pháp/Hành trình học Phật Pháp/VBU",
