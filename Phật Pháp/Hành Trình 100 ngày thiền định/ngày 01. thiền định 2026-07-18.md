@@ -6,4 +6,4 @@ tình trạng hiện tại:
 - ngồi thiệt một ngày chỉ được 5 phút. 
 - chỉ có niệm Nam Mô A Di Đà Phật thôi, không hề có thói quen tập khí và năng lượng thiền định. 
 
-thiền định ngày 02 ngày  [[ngày 02. thiền địnhh  2026-07-25]] 
+thiền định ngày 02 ngày  [[ngày 02. thiền định  2026-07-25]] 

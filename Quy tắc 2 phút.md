@@ -1,0 +1,1 @@
+Quy tắc này ta sẽ mặc định Pomo
