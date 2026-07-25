@@ -1,6 +1,13 @@
 
 1. áp dụng sâu sắc vào chuyên môn của mình. 
-2. Kết nối kiến thức đa lĩnh vực sử sung obsidian. 
+2. Kết nối kiến thức đa lĩnh vực sử sung [[Ghi chép Obsidian]] để liên kết các ghi chú với nhau. 
+3. Tiếp tục phát triển khả năng của mình thông qua học kiến thức mới. liên tục tò mò về các kiến thức mới. 
+
+
+điều ghi chú này bổ sung các bài học cho [[trí tuệ nhân tạo]]   đối nghịch với việc rèn luyện siêu trí nhớ, vì theo như tác giả thì họ đã nhớ thay mình rồi mà. 
+ngoài ra có thể áp dụng ngay vào trong công việc học tập của mình. 
+
+áp dụng  trong cuộc sống hiện này là không cần học quá nhiều cần phải hành và hành sao cho tinh chuyên còn lại việc mở rộng thì có thể để cho Ai lo mình có thể tập trung vào pháp hành. Nâng cấp khả năng  hành động của mình lên ( ví dụ như sử dụng các quy tắc [[Rèn động lực cho não]] hay những nguyên tắc [[Quy tắc 2 phút]] sẽ giúp ta nhanh chóng có thêm động lực)
 
 
 
