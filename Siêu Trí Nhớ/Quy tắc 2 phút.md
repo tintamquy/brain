@@ -10,6 +10,6 @@ Ví dụ như:
  - 2 phút để chạy bộ. 
 
 Ta sẽ xoay quanh chiến lược pomodoro 2 phút hoàn thành công việc và sau đó là 1phút nghỉ ngơi, không sử dụng pomodoro chỉ có 2 phút thôi. 
-Đây là quy tắc rút ra từ [[Cách luyện động lực cho não]]
+Đây là quy tắc rút ra từ [[Rèn động lực cho não]]
 và rất cần xem lại phương pháp này mỗi khi bế tắc trong [[việc làm]] hay [[sự nghiệp]]
 
