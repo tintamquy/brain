@@ -11,3 +11,6 @@ Nước phải có vua.
 Chùa phải có chủ (trì).
 
 Thầy chùa là bùa làng.
+
+
+Ngôi chùa là ngôi trường học [[Phật pháp]] nên không thể không có sư thầy để 
