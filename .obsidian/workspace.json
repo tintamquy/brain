@@ -11,14 +11,10 @@
             "id": "5dade3e100f0efe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lòng biết ơn"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -196,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,14 +216,17 @@
   },
   "active": "5dade3e100f0efe1",
   "lastOpenFiles": [
+    "Phật Pháp/HT Tịnh Không/Mạng người trong hơi thở.md",
+    "Phật Pháp/Hành Trình 100 ngày thiền định/Ngày 03. hành thiền 2026-07-28.md",
+    "Phật Pháp/Ứng Dụng/Tứ Y Pháp.md",
+    "Phật Pháp/Ứng Dụng/tiếng pali.md",
+    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
     "ZettelKasten/Nhật ký biết ơn/17. NKBO 2026-07-27.md",
     "ZettelKasten/Nhật ký biết ơn/16. NKBO 2026-07-26.md",
     "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
-    "Phật Pháp/HT Tịnh Không/Mạng người trong hơi thở.md",
     "ZettelKasten/Nhật ký biết ơn/15. Biết ơn 2026-07-25.md",
     "ZettelKasten/Nhật ký biết ơn/Untitled.md",
-    "si mê.md",
-    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
+    "Phật Pháp/Tứ Diệu Đế/Tập Đế/si mê.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Trì tụng 12.000 biến trú đại bi.md",
     "ZettelKasten/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
     "ZettelKasten/Nhật ký biết ơn/14. Biết ơn 2026-07-24.md",
@@ -243,9 +242,6 @@
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/1- Ghi Nhớ 2 bộ bài tây.md",
     "Phật Pháp/Thực hành thiền/Sự thanh lọc ngày càng khốc liệt.md",
     "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 02. thiền định  2026-07-25.md",
-    "Phật Pháp/HT Tịnh Không/Ý Niệm Sinh Ra Quả Báo Gì 25-07-2026.md",
-    "Siêu Trí Nhớ/Cách luyện động lực cho não.md",
-    "Tiếng Trung/ngày 01. học tiếng trung 2026-07-18.md",
     "Phật Pháp/Tứ Diệu Đế/Tập Đế",
     "Phật Pháp/Hành trình học Phật Pháp/VBU/Đại Cương Tâm Lý Học",
     "Phật Pháp/Hành trình học Phật Pháp/VBU",
