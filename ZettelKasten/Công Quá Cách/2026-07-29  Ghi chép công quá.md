@@ -8,5 +8,6 @@
 
 [[Quá]]
 1. [[phóng dật]] vẫn xem video không suy nghĩ
+2. gửi những suy nghĩ không chín chắn và không phù hợp cho số đông vào trong các nhóm tu học. 
 
 
