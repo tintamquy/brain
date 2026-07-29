@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "24d5eed020a4ea88",
+        "id": "369bb6b1ab86c7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "983e3ac2661fabd8",
+            "id": "5145583cf3a73fec",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "586820a6d3f7201c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +218,28 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "983e3ac2661fabd8",
+  "active": "586820a6d3f7201c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "ZettelKasten/Công Quá Cách/2026-07-29  Ghi chép công quá.md",
+    "ZettelKasten/Công Quá Cách/Công.md",
+    "ZettelKasten/Công Quá Cách/Quá.md",
+    "Phật Pháp/Ứng Dụng/Tu Trong Công Việc/Sách Tu Trong Công Việc.md",
+    "phật.md",
+    "().md",
+    "ZettelKasten/Nhật ký biết ơn/19. NKBO 2026-07-29.md",
+    "Phật Pháp/Ứng Dụng/Tu Trong Công Việc/Untitled",
+    "Phật Pháp/Ứng Dụng/Tu Trong Công Việc",
+    "ZettelKasten/Nhật ký biết ơn/18. NKBO 2026-07-28.md",
+    "ZettelKasten/Nhật ký biết ơn/17. NKBO 2026-07-27.md",
+    "ZettelKasten/Nhật ký biết ơn/16. NKBO 2026-07-26.md",
+    "ZettelKasten/Công Quá Cách",
+    "Tiếng Trung/tiếng trung quốc.md",
+    "Phật Pháp/Ứng Dụng/Tứ Y Pháp.md",
+    "Phật Pháp/Ứng Dụng/Chùa phải có sư.md",
+    "Phật Pháp/Tứ Diệu Đế/Tập Đế/si mê.md",
+    "Phật Pháp/Hành Trình 100 ngày thiền định/Ngày 03. hành thiền 2026-07-28.md",
+    "Phật Pháp/HT Tịnh Không/Mạng người trong hơi thở.md",
     "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Trì tụng 12.000 biến trú đại bi.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "AI Trí Tuệ Nhân Tạo/Đâu là kỹ năng cần thiết trong thời kỳ AI phát triển..md",
@@ -214,32 +249,12 @@
     "Phật Pháp/HT Tịnh Không/Niềm vui từ học tập.md",
     "Phật Pháp/Thực hành thiền/Tâm ta là Phật.md",
     "Phật Pháp/Thực hành thiền/Sự thanh lọc ngày càng khốc liệt.md",
-    "Siêu Trí Nhớ/Quy tắc 2 phút.md",
-    "Siêu Trí Nhớ/Quy tắc số 3 trong lâu đài cung điện ký ưc.md",
-    "Siêu Trí Nhớ/Rèn động lực cho não.md",
-    "Phật Pháp/HT Tịnh Không/Ý Niệm Sinh Ra Quả Báo Gì 25-07-2026.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/2- Siêu Trí Nhớ - 2026-07-20.md",
-    "ZettelKasten/Nhật ký biết ơn/1. Biết ơn 2026-07-10.md",
     "ZettelKasten/Nhật ký biết ơn/Untitled",
-    "Siêu Trí Nhớ/Siêu Trí Nhớ Đoạn Văn.md",
-    "Phật Pháp/Tam Tổ Huyền Quang/Giới thiệu Tam Tổ Huyền Quang.md",
-    "Phật Pháp/Hành Trình 100 ngày thiền định/ngày 02. thiền định  2026-07-25.md",
-    "Phật Pháp/Hành Trình 100 ngày thiền định/Hành trình 100 ngày thiền định.md",
-    "Công việc/Hãy khôn ngoan ứng xử.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/hành trình 100 ngày luyện siêu trí nhớ.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/1- Ghi Nhớ 2 bộ bài tây.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 252 số nhị Phân.md",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ/Ghi nhớ 120 số ngẫu nhiên.md",
-    "ZettelKasten/ZettelKasten.md",
-    "conflict-files-obsidian-git.md",
     "Phật Pháp/Tứ Diệu Đế/Tập Đế",
     "Phật Pháp/Hành trình học Phật Pháp/VBU/Đại Cương Tâm Lý Học",
     "Phật Pháp/Hành trình học Phật Pháp/VBU",
     "Phật Pháp/Hành Trình 100 ngày thiền định",
     "AI Trí Tuệ Nhân Tạo",
-    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ",
-    "Phật Pháp/Ứng Dụng",
-    "Phật Pháp/Thực hành thiền/Nhật ký thiền định",
-    "Phật Pháp/Hành trình học Phật Pháp"
+    "Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ"
   ]
 }
