@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0daa9e2a33469106",
+        "id": "caab4820edadecdc",
         "type": "tabs",
         "children": [
           {
-            "id": "5dade3e100f0efe1",
+            "id": "31916445bd358a8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ZettelKasten/Nhật ký biết ơn/19. NKBO 2026-07-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "19. NKBO 2026-07-29"
             }
           }
         ]
@@ -218,10 +218,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "5dade3e100f0efe1",
+  "active": "31916445bd358a8b",
   "lastOpenFiles": [
-    "ZettelKasten/Công Quá Cách/2026-07-29  Ghi chép công quá.md",
     "conflict-files-obsidian-git.md",
+    "ZettelKasten/Công Quá Cách/2026-07-29  Ghi chép công quá.md",
     "ZettelKasten/Công Quá Cách/Quá.md",
     "ZettelKasten/Công Quá Cách/Hàng ngày/260730.md",
     "ZettelKasten/Công Quá Cách/Hàng ngày/2026-07-29  Ghi chép công quá.md",
