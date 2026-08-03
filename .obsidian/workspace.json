@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZettelKasten/Nhật ký biết ơn/19. NKBO 2026-07-29.md",
+                "file": "ZettelKasten/Nhật ký biết ơn/21. NKBO 2026-08-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. NKBO 2026-07-29"
+              "title": "21. NKBO 2026-08-02"
+            }
+          },
+          {
+            "id": "8784b0a35e964b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZettelKasten/Nhật ký biết ơn/20. biết ơn 2026-08-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20. biết ơn 2026-08-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,21 +235,24 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "31916445bd358a8b",
+  "active": "8784b0a35e964b3a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "ZettelKasten/Nhật ký biết ơn/19. NKBO 2026-07-29.md",
-    "công quá 2026-08-01.md",
-    "biết ơn 2026-08-01.md",
-    "ZettelKasten/Nhật ký biết ơn/Untitled.md",
-    "ZettelKasten/Công Quá Cách/Hàng ngày/Untitled.md",
-    "ZettelKasten/Nhật ký biết ơn/20. NKBO 2026-08-02.md",
-    "ZettelKasten/Công Quá Cách/2026-07-29  Ghi chép công quá.md",
+    "Phật Pháp/Ứng Dụng/Tu Trong Công Việc/Nhờ sám hối.md",
+    "Phật Pháp/Ứng Dụng/sám hối.md",
+    "ZettelKasten/Công Quá Cách/Hàng ngày/công quá 2026-08-01.md",
     "ZettelKasten/Công Quá Cách/Quá.md",
-    "ZettelKasten/Công Quá Cách/Hàng ngày/260730.md",
-    "ZettelKasten/Công Quá Cách/Hàng ngày/2026-07-29  Ghi chép công quá.md",
-    "ZettelKasten/Công Quá Cách/Hàng ngày",
     "ZettelKasten/Công Quá Cách/Công.md",
+    "ZettelKasten/Công Quá Cách/Hàng ngày/Công Quá 2026-07-29.md",
+    "ZettelKasten/Công Quá Cách/Hàng ngày/Công Quá 2026-08-03.md",
+    "ZettelKasten/Công Quá Cách/Hàng ngày/Công Quá 260730.md",
+    "ZettelKasten/Nhật ký biết ơn/22. NKBO 2026-08-03.md",
+    "ZettelKasten/Nhật ký biết ơn/Untitled.md",
+    "ZettelKasten/Nhật ký biết ơn/21. NKBO 2026-08-02.md",
+    "ZettelKasten/Nhật ký biết ơn/20. biết ơn 2026-08-01.md",
+    "ZettelKasten/Nhật ký biết ơn/19. NKBO 2026-07-29.md",
+    "conflict-files-obsidian-git.md",
+    "ZettelKasten/Công Quá Cách/2026-07-29  Ghi chép công quá.md",
+    "ZettelKasten/Công Quá Cách/Hàng ngày",
     "Tiếng Trung/Siêu trí nhớ phát âm tiếng Trung.md",
     "Phật Pháp/Ứng Dụng/Tu Trong Công Việc/Sách Tu Trong Công Việc.md",
     "Phật Pháp/Ứng Dụng/Tu Trong Công Việc",
@@ -248,9 +266,6 @@
     "Phật Pháp/HT Tịnh Không/Mạng người trong hơi thở.md",
     "Phật Pháp/Hành Trình 100 ngày thiền định/Ngày 03. hành thiền 2026-07-28.md",
     "Phật Pháp/Ứng Dụng/Tứ Y Pháp.md",
-    "Phật Pháp/Ứng Dụng/tiếng pali.md",
-    "ZettelKasten/Nhật ký biết ơn/Lòng biết ơn.md",
-    "ZettelKasten/Nhật ký biết ơn/16. NKBO 2026-07-26.md",
     "Phật Pháp/Tứ Diệu Đế/Tập Đế",
     "Phật Pháp/Hành trình học Phật Pháp/VBU/Đại Cương Tâm Lý Học",
     "Phật Pháp/Hành trình học Phật Pháp/VBU",

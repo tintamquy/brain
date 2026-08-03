@@ -1,0 +1,2 @@
+thay vì chỉ [[sám hối]] một cách thông thường, 
+ta có thể nhờ thân bằng quyến thuộc, nhờ người mà ta có ơn và không có ơn, chư phật bồ tát chư thiên xin giúp ta sám hối với oan gia trái chủ của ta để ta có thêm thuận duyên tu tập [[Phật pháp]].
