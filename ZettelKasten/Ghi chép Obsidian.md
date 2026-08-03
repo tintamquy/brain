@@ -23,3 +23,5 @@ Vậy thì một câu hỏi ở đây là siêu trí nhớ các phương pháp m
 
 ---
 *tham khảo từ Neteliason blog https://www.nateliason.com/blog/smart-notes
+
+
