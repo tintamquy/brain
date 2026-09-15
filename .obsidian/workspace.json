@@ -35,7 +35,8 @@
               "title": "cấp độ của việc học"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +225,9 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "8b752b49766e5156",
+  "active": "18034b25538b996e",
   "lastOpenFiles": [
+    "Siêu Trí Nhớ/Quy tắc số 3 trong lâu đài cung điện ký ưc.md",
     "Siêu Trí Nhớ/Mnemoic Loci  X  ZettelKasten.md",
     "Siêu Trí Nhớ/chia nhỏ để ghi nhớ.md",
     "Tiếng Trung/Hành trình 100 ngày học tiếng trung.md",
@@ -251,7 +253,6 @@
     "ZettelKasten/Ghi chép theo đuổi mục tiêu lâu dài..md",
     "ZettelKasten/Ghi chép Obsidian.md",
     "ZettelKasten/Cách ghi chép Zettelkasten.md",
-    "ZettelKasten/Nhật ký biết ơn/24. NKBO 2026-08-09.md",
     "ZettelKasten/Công Quá Cách/Hàng ngày",
     "Phật Pháp/Ứng Dụng/Tu Trong Công Việc/Untitled",
     "Phật Pháp/Ứng Dụng/Tu Trong Công Việc",
