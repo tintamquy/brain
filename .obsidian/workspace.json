@@ -212,6 +212,10 @@
   },
   "active": "8b752b49766e5156",
   "lastOpenFiles": [
+    "scripts/unblock_youtube.bat",
+    "scripts/block_youtube.bat",
+    "scripts/unblock_youtube.ps1",
+    "scripts/block_youtube.ps1",
     "00. Daily/Chưa đặt tên.md",
     "00. Daily/2026-09-16.md",
     "00. Daily/Templates/Daily Note Template.md",
@@ -239,14 +243,10 @@
     "00. Daily/Nhật Ký Cũ/Công Quá Cách/Công.md",
     "00. Daily/Nhật Ký Cũ/Công Quá Cách",
     "00. Daily/Nhật Ký Cũ/Nhật ký biết ơn/Lòng biết ơn.md",
-    "00. Daily/Nhật Ký Cũ/Nhật ký biết ơn/Hành trình 100 ngày biết ơn.md",
     "00. Daily/Nhật Ký Cũ/Nhật ký biết ơn",
     "02. Rèn Luyện Trí Tuệ/Tiếng Trung",
     "02. Rèn Luyện Trí Tuệ/Siêu Trí Nhớ/Hành Trình luyện tập siêu trí nhớ",
     "02. Rèn Luyện Trí Tuệ/Siêu Trí Nhớ",
-    "02. Rèn Luyện Trí Tuệ/AI Trí Tuệ Nhân Tạo",
-    "01. Tâm Linh & Tu Tập/Ứng Dụng/Tu Trong Công Việc",
-    "01. Tâm Linh & Tu Tập/Ứng Dụng",
-    "01. Tâm Linh & Tu Tập/Tứ Niệm Xứ"
+    "02. Rèn Luyện Trí Tuệ/AI Trí Tuệ Nhân Tạo"
   ]
 }
