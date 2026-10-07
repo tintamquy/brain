@@ -1,0 +1,23 @@
+# ==========================================================
+# Obsidian Git & Cloudflare R2 Sync Ignore Rules
+# ==========================================================
+
+# 1. BẢO MẬT: Không commit thông tin kết nối Cloudflare R2
+.obsidian/plugins/remotely-save/
+
+# 2. XUNG ĐỘT: Bỏ qua vị trí mở tab/chuột (thay đổi liên tục khi thao tác)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# 3. XUNG ĐỘT: Bỏ qua cache AI của plugin Smart Connections (nguyên nhân gây conflict nặng nhất)
+.smart-env/
+
+# 4. Thư mục rác & file tạm
+.trash/
+conflict-files-obsidian-git.md
+
+# 5. OS files
+.DS_Store
+Thumbs.db
+desktop.ini
