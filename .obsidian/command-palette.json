@@ -1,5 +1,7 @@
 {
   "pinned": [
+    "insert-current-time",
+    "insert-current-date",
     "obsidian-git:push"
   ]
 }

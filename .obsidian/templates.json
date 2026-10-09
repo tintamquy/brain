@@ -1,3 +1,5 @@
 {
-  "folder": "00. Daily/Templates"
+  "folder": "00. Daily/Templates",
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HH:mm"
 }
