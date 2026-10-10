@@ -22,12 +22,12 @@ for (let p of pages) {
 }
 
 const sortedDates = Array.from(dates).sort();
-const today = moment().format("YYYY-MM-DD");
-const yesterday = moment().subtract(1, 'days').format("YYYY-MM-DD");
+const todayStr = moment().format("YYYY-MM-DD");
+const yesterdayStr = moment().subtract(1, 'days').format("YYYY-MM-DD");
 
-// Tính Streak
+// 1. Tính Streak hiện tại
 let currentStreak = 0;
-let checkDate = dates.has(today) ? moment() : (dates.has(yesterday) ? moment().subtract(1, 'days') : null);
+let checkDate = dates.has(todayStr) ? moment() : (dates.has(yesterdayStr) ? moment().subtract(1, 'days') : null);
 
 if (checkDate) {
     while (dates.has(checkDate.format("YYYY-MM-DD"))) {
@@ -36,7 +36,7 @@ if (checkDate) {
     }
 }
 
-// Kỷ lục streak
+// 2. Tính Kỷ lục Streak
 let longestStreak = 0;
 let tempStreak = 0;
 let prevDate = null;
@@ -60,191 +60,215 @@ for (let dStr of sortedDates) {
 const container = dv.container;
 container.innerHTML = `
 <style>
-/* --- PHONG CÁCH KÍNH MỜ (GLASSMORPHISM) --- */
-.anime-glass-card {
-  position: relative;
-  background: rgba(255, 255, 255, 0.04);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  border-top: 1px solid rgba(255, 255, 255, 0.3);
-  border-left: 1px solid rgba(255, 255, 255, 0.22);
-  border-radius: 16px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.12);
-  padding: 16px 20px;
-  margin: 10px 0 18px 0;
+.minimal-tracker-card {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 12px;
+  padding: 14px 18px;
+  margin: 10px 0 16px 0;
+  border-radius: 12px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
-.anime-card-top {
+.minimal-main-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 14px;
+  gap: 12px;
 }
 
-.anime-flame-wrap {
+.minimal-flame-section {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
 }
 
-/* --- HOẠT HỌA ANIME SKETCH FLAME (GIẬT NHẸ KIỂU CEL ANIME) --- */
-@keyframes animeFlameFlicker {
-  0% { transform: scale(1) rotate(-1deg); }
-  25% { transform: scale(1.05) rotate(2deg) skewX(1deg); }
-  50% { transform: scale(0.97) rotate(-2deg); }
-  75% { transform: scale(1.04) rotate(1deg) skewX(-1deg); }
-  100% { transform: scale(1) rotate(-1deg); }
+@keyframes flameBreathe {
+  0%, 100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 6px rgba(255, 112, 67, 0.45));
+  }
+  50% {
+    transform: scale(1.05) translateY(-1px);
+    filter: drop-shadow(0 0 14px rgba(255, 160, 0, 0.75));
+  }
 }
 
-.anime-flame-svg {
-  width: 65px;
-  height: 76px;
-  filter: drop-shadow(0 0 10px rgba(255, 87, 34, 0.5));
-  animation: animeFlameFlicker 1.1s steps(6, end) infinite;
-  transform-origin: 50% 90%;
+.flame-container {
+  position: relative;
+  width: 44px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   flex-shrink: 0;
 }
 
-.anime-streak-info {
+.flame-svg {
+  width: 100%;
+  height: 100%;
+  animation: flameBreathe 2s infinite ease-in-out;
+}
+
+.flame-number {
+  position: absolute;
+  top: 56%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 16px;
+  font-weight: 800;
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8), 0 0 6px #d84315;
+  pointer-events: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.minimal-title-box {
   display: flex;
   flex-direction: column;
 }
 
-.anime-streak-title {
-  font-size: 17px;
-  font-weight: 800;
-  letter-spacing: -0.3px;
-  color: #ff7043;
+.minimal-streak-heading {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-normal);
   line-height: 1.25;
 }
 
-.anime-streak-sub {
+.minimal-streak-desc {
   font-size: 12px;
-  opacity: 0.75;
-  margin-top: 2px;
+  color: var(--text-muted);
 }
 
-/* --- STATS PILLS (KÍNH MỜ) --- */
-.anime-stats-pills {
+.minimal-stats-group {
   display: flex;
   gap: 8px;
   flex-wrap: wrap;
 }
 
-.anime-pill {
-  padding: 6px 12px;
-  border-radius: 20px;
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  border: 1px solid rgba(255, 255, 255, 0.12);
+.minimal-stat-item {
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
   font-size: 12px;
-  display: flex;
-  align-items: center;
-  gap: 4px;
+  color: var(--text-muted);
 }
 
-.anime-pill strong {
-  color: #ffab40;
+.minimal-stat-item strong {
+  color: var(--text-normal);
+  font-weight: 600;
 }
 
-/* --- NÚT BẤM 1 CHẠM TẠO NHẬT KÝ HÔM NAY --- */
-.anime-action-row {
-  display: flex;
-  width: 100%;
-}
-
-.btn-open-daily {
+.minimal-btn-create {
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
-  padding: 10px 16px;
-  border-radius: 10px;
-  background: linear-gradient(135deg, rgba(255, 87, 34, 0.22), rgba(255, 167, 38, 0.16));
-  border: 1px solid rgba(255, 112, 67, 0.4);
-  color: var(--text-normal);
+  gap: 6px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
   font-size: 13.5px;
-  font-weight: 700;
+  font-weight: 600;
+  border: none;
   cursor: pointer;
-  transition: all 0.2s ease;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.15s ease;
 }
 
-.btn-open-daily:hover, .btn-open-daily:active {
-  background: linear-gradient(135deg, rgba(255, 87, 34, 0.4), rgba(255, 167, 38, 0.3));
-  border-color: rgba(255, 112, 67, 0.7);
-  transform: translateY(-1px);
+.minimal-btn-create:hover {
+  opacity: 0.9;
+}
+.minimal-btn-create:active {
+  transform: translateY(1px);
 }
 </style>
 
-<div class="anime-glass-card">
-  <div class="anime-card-top">
-    <div class="anime-flame-wrap">
-      <!-- SVG NGỌN LỬA ANIME SKETCH VỚI NÉT VẼ TAY & INK LINES -->
-      <svg class="anime-flame-svg" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
-        <g>
-          <!-- Nét phác thảo đốm lửa xung quanh (Anime Sparks) -->
-          <path d="M18 42 Q14 36 20 30 Q22 38 18 42" fill="#ff5722" stroke="#1c0b05" stroke-width="2"/>
-          <path d="M102 36 Q110 30 104 24 Q100 32 102 36" fill="#ff9800" stroke="#1c0b05" stroke-width="2"/>
-          <path d="M30 16 Q28 10 34 8 Q32 14 30 16" fill="#ffeb3b" stroke="#1c0b05" stroke-width="1.8"/>
-          
-          <!-- Lớp ngọn lửa lớn bên ngoài (Nét viền mực Anime đậm, tỉa nhọn phóng khoáng) -->
-          <path d="M60 8 C62 22 72 30 82 26 C80 38 96 42 102 60 C108 76 104 98 90 116 C76 132 44 134 28 122 C14 110 10 88 18 68 C22 54 34 50 34 38 C42 44 48 40 50 24 C54 16 58 8 60 8 Z" 
-                fill="#ff3d00" stroke="#1a0c02" stroke-width="3.5" stroke-linejoin="round"/>
-          
-          <!-- Lớp lửa giữa cel-shade vàng cam -->
-          <path d="M60 28 C64 40 78 50 82 70 C86 88 78 106 62 112 C46 110 36 96 40 76 C42 62 52 54 56 42 C57 36 59 30 60 28 Z" 
-                fill="#ff9800" stroke="#1c0b05" stroke-width="2.5" stroke-linejoin="round"/>
-          
-          <!-- Lõi lửa sáng anime -->
-          <path d="M60 52 C65 62 72 72 72 84 C72 96 66 104 60 104 C54 104 48 96 48 84 C48 72 55 62 60 52 Z" 
-                fill="#fff9c4" stroke="#1c0b05" stroke-width="2.2" stroke-linejoin="round"/>
-          
-          <!-- Nét gạch mực phác thảo (Manga Ink Hatching) -->
-          <path d="M28 92 L22 98 M34 104 L28 110 M88 92 L94 98 M82 104 L88 110" 
-                stroke="#1a0c02" stroke-width="2.2" stroke-linecap="round"/>
-          
-          <!-- Số Streak phong cách Manga Ink Stencil (To, rõ nét, viền đen cực ngầu) -->
-          <text x="60" y="93" text-anchor="middle" font-family="'Impact', 'Arial Black', sans-serif" 
-                font-weight="900" font-size="28" fill="#ffffff" stroke="#1a0c02" stroke-width="5" 
-                paint-order="stroke fill">${currentStreak}</text>
-        </g>
-      </svg>
+<div class="minimal-tracker-card">
+  <div class="minimal-main-row">
+    <div class="minimal-flame-section">
+      <div class="flame-container">
+        <svg class="flame-svg" viewBox="0 0 64 80" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="minimalFlameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+              <stop offset="0%" stop-color="#e64a19" />
+              <stop offset="55%" stop-color="#ff9800" />
+              <stop offset="100%" stop-color="#ffeb3b" />
+            </linearGradient>
+            <linearGradient id="innerCoreGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+              <stop offset="0%" stop-color="#ff9800" />
+              <stop offset="100%" stop-color="#ffffff" />
+            </linearGradient>
+          </defs>
+          <path d="M32 3 C35 14 43 20 48 18 C46 29 58 35 59 48 C61 63 53 76 43 83 C34 90 20 89 12 80 C5 70 6 56 10 44 C13 35 19 32 20 23 C24 27 27 24 28 15 C29 9 31 3 32 3 Z" fill="url(#minimalFlameGrad)" />
+          <path d="M32 40 C35 48 40 54 40 62 C40 70 36 74 32 74 C28 74 24 70 24 62 C24 54 29 48 32 40 Z" fill="url(#innerCoreGrad)" opacity="0.8" />
+        </svg>
+        <span class="flame-number">${currentStreak}</span>
+      </div>
 
-      <div class="anime-streak-info">
-        <div class="anime-streak-title">Chuỗi ${currentStreak} Ngày Tinh Tấn</div>
-        <div class="anime-streak-sub">${currentStreak > 0 ? "🔥 Năng lượng tu tập đang duy trì mạnh mẽ!" : "Hãy bắt đầu ngày mới ngay bây giờ!"}</div>
+      <div class="minimal-title-box">
+        <div class="minimal-streak-heading">Chuỗi ${currentStreak} Ngày Tinh Tấn</div>
+        <div class="minimal-streak-desc">${currentStreak > 0 ? "Duy trì tu tập đều đặn" : "Bắt đầu ngày mới ngay hôm nay"}</div>
       </div>
     </div>
 
-    <div class="anime-stats-pills">
-      <div class="anime-pill">🏆 Kỷ lục: <strong>${longestStreak} ngày</strong></div>
-      <div class="anime-pill">📿 Tổng biến: <strong>${totalCount} lần</strong></div>
-      <div class="anime-pill">📅 Đã đọc: <strong>${dates.size} ngày</strong></div>
+    <div class="minimal-stats-group">
+      <div class="minimal-stat-item">Kỷ lục: <strong>${longestStreak} ngày</strong></div>
+      <div class="minimal-stat-item">Tổng biến: <strong>${totalCount} lần</strong></div>
+      <div class="minimal-stat-item">Đã đọc: <strong>${dates.size} ngày</strong></div>
     </div>
   </div>
 
-  <!-- NÚT BẤM 1 CHẠM DÀNH RIÊNG CHO ĐIỆN THOẠI & MÁY TÍNH -->
-  <div class="anime-action-row">
-    <button class="btn-open-daily" id="btn-quick-daily">
-      ⚡ <span>Bấm Vào Đây Để Viết Nhật Ký Hôm Nay (Tự Động Ra Mẫu)</span>
-    </button>
-  </div>
+  <button class="minimal-btn-create" id="btn-daily-action">
+    + Viết Nhật Ký Hôm Nay
+  </button>
 </div>
 `;
 
-// Gán sự kiện click: Tự động chạy lệnh mở Daily note có sẵn template
-const quickBtn = container.querySelector("#btn-quick-daily");
-if (quickBtn) {
-  quickBtn.onclick = () => {
-    app.commands.executeCommandById("daily-notes");
+// Tự động kiểm tra / tạo file ngày mới với ĐẦY ĐỦ thuộc tính và mở ra ngay lập tức
+const btn = container.querySelector("#btn-daily-action");
+if (btn) {
+  btn.onclick = async () => {
+    const today = moment().format("YYYY-MM-DD");
+    const filePath = "00. Daily/" + today + ".md";
+    let file = app.vault.getAbstractFileByPath(filePath);
+
+    const templateContent = \`---
+tags:
+  - daibithapchu
+  - daily
+Đại Bi Thập Chú: 0
+---
+
+# 🌿 Nhật ký ngày \${today}
+
+### 📿 Tu Tập & Trì Tụng
+- Đọc Chú Đại Bi: (Chạm vào số 0 ở thuộc tính 'Đại Bi Thập Chú' trên đầu trang để đổi số lần)
+- Tâm nguyện / Hồi hướng:
+
+### ☀️ Việc Quan Trọng Hôm Nay
+- [ ] 
+
+### 🌙 Nhìn Lại & Buông Xả
+- Thân tâm an lạc, buông bỏ lo toan.
+\`;
+
+    if (!file) {
+      file = await app.vault.create(filePath, templateContent);
+    } else {
+      const content = await app.vault.read(file);
+      if (!content.includes("Đại Bi Thập Chú")) {
+        await app.vault.modify(file, \`---\\ntags:\\n  - daibithapchu\\n  - daily\\nĐại Bi Thập Chú: 0\\n---\\n\\n\` + content);
+      }
+    }
+
+    if (file) {
+      app.workspace.getLeaf(false).openFile(file);
+    }
   };
 }
 ```
@@ -252,19 +276,11 @@ if (quickBtn) {
 ```heatmap-tracker
 property: Đại Bi Thập Chú
 path: 00. Daily
-tags:
-  - "#daibithapchu"
-year: 2026
 separateMonths: true
-showCurrentDayBorder: true
-colorScheme:
-  paletteName: default
-ui:
-  hideTabs: true
 ```
 
 ---
 
-### 📝 Hồi Hướng & Cảm Niệm
+### 📝 Ghi Chú & Hồi Hướng
 - Hôm nay tôi đã đọc được 5 lần chú đại bi rồi.
-- Nguyện vãng sinh về tây phương cực lạc, đoạn trừ mọi lậu hoặc, thân tâm an lạc.
+- Nguyện vãng sinh về tây phương cực lạc, thân tâm an lạc, dứt trừ phiền não.
