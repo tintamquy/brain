@@ -278,5 +278,5 @@ separateMonths: true
 ---
 
 ### 📝 Ghi Chú & Hồi Hướng
-- Hôm nay tôi đã đọc được 5 lần chú đại bi rồi.
-- Nguyện vãng sinh về tây phương cực lạc, thân tâm an lạc, dứt trừ phiền não.
+- Nguyện đem công đức này hồi hướng về tây phương, nguyện cho con được vãng sinh về tây phương cực lạc. 
+- Trên đền 4 ơn nặng, dưới cứu khổ 3 đường, nếu có ai thấy nghe, đều ph
