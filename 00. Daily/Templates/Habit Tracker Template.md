@@ -1,19 +1,18 @@
 ---
 tags:
-  - daibithapchu
-  - tu-tap
+  - habit-tracker
 ---
 
-# 📿 Theo Dõi Trì Tụng - Đại Bi Thập Chú
+# 🎯 Theo Dõi Thói Quen - [TÊN THÓI QUEN]
 
 ```dataviewjs
-// ==========================================
-// ⚙️ CẤU HÌNH THÓI QUEN (CHỈ CẦN SỬA Ở ĐÂY KHI NHÂN BẢN TRANG MỚI)
-// ==========================================
-const HABIT_NAME = "Đại Bi Thập Chú"; 
-const HABIT_UNIT = "lần";             
-const HABIT_DEFAULT = 7;              
-const DAILY_DIR = "00. Daily/Nhật Ký";
+// =========================================================================
+// ⚙️ CẤU HÌNH THÓI QUEN (BẠN CHỈ CẦN SỬA 3 DÒNG DƯỚI ĐÂY KHI NHÂN BẢN TRANG MỚI)
+// =========================================================================
+const HABIT_NAME = "Tên Thuộc Tính";  // Ví dụ: "Ngồi Thiền", "Đọc Sách", "Chạy Bộ"...
+const HABIT_UNIT = "phút";            // Đơn vị: "phút", "lần", "trang", "km"...
+const HABIT_DEFAULT = 20;             // Giá trị mục tiêu gợi ý khi tạo ngày mới (ví dụ: 20 phút)
+const DAILY_DIR = "00. Daily/Nhật Ký";// Thư mục lưu nhật ký hàng ngày (giữ nguyên)
 
 // 1. Quét dữ liệu từ thư mục Nhật Ký
 const pages = dv.pages('"' + DAILY_DIR + '"')
@@ -66,7 +65,7 @@ for (let dStr of sortedDates) {
     prevDate = d;
 }
 
-// 4. Render Thẻ Ngọn Lửa Tối Giản
+// 4. Render Giao diện Ngọn Lửa Tối Giản
 const container = dv.container;
 container.innerHTML = `
 <style>
@@ -204,14 +203,14 @@ container.innerHTML = `
 
       <div class="minimal-title-box">
         <div class="minimal-streak-heading">Chuỗi ${currentStreak} Ngày ${HABIT_NAME}</div>
-        <div class="minimal-streak-desc">${currentStreak > 0 ? "Duy trì tu tập đều đặn" : "Bắt đầu ngày mới ngay hôm nay"}</div>
+        <div class="minimal-streak-desc">${currentStreak > 0 ? "Duy trì đều đặn mỗi ngày" : "Bắt đầu ngay hôm nay"}</div>
       </div>
     </div>
 
     <div class="minimal-stats-group">
       <div class="minimal-stat-item">Kỷ lục: <strong>${longestStreak} ngày</strong></div>
       <div class="minimal-stat-item">Tổng: <strong>${totalCount} ${HABIT_UNIT}</strong></div>
-      <div class="minimal-stat-item">Đã đọc: <strong>${dates.size} ngày</strong></div>
+      <div class="minimal-stat-item">Đã làm: <strong>${dates.size} ngày</strong></div>
     </div>
   </div>
 
@@ -221,7 +220,7 @@ container.innerHTML = `
 </div>
 `;
 
-// 5. Nút bấm tạo / mở ngày mới vào thư mục "00. Daily/Nhật Ký/"
+// 5. Nút bấm tạo / cập nhật file nhật ký ngày
 const btn = container.querySelector("#btn-daily-action");
 if (btn) {
   btn.onclick = async () => {
@@ -239,8 +238,8 @@ if (btn) {
         "",
         "# 🌿 Nhật ký ngày " + today,
         "",
-        "### 📿 Tu Tập & Thói Quen",
-        "- " + HABIT_NAME + ": (Chạm vào số ở thuộc tính trên đầu trang để đổi số lượng)",
+        "### 🎯 Thói Quen Hàng Ngày",
+        "- " + HABIT_NAME + ": (Chạm vào số ở thuộc tính trên đầu trang để cập nhật)",
         "",
         "### ☀️ Việc Quan Trọng Hôm Nay",
         "- [ ] ",
@@ -270,13 +269,12 @@ if (btn) {
 ```
 
 ```heatmap-tracker
-property: Đại Bi Thập Chú
+property: Tên Thuộc Tính
 path: 00. Daily/Nhật Ký
 separateMonths: true
 ```
 
 ---
 
-### 📝 Ghi Chú & Hồi Hướng
-- Hôm nay tôi đã đọc được 5 lần chú đại bi rồi.
-- Nguyện vãng sinh về tây phương cực lạc, thân tâm an lạc, dứt trừ phiền não.
+### 📝 Ghi Chú & Mục Tiêu
+- Viết các mục tiêu, cảm nhận hoặc lưu ý cho thói quen này vào đây.
