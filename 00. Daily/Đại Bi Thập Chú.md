@@ -279,4 +279,4 @@ separateMonths: true
 
 ### 📝 Ghi Chú & Hồi Hướng
 - Nguyện đem công đức này hồi hướng về tây phương, nguyện cho con được vãng sinh về tây phương cực lạc. 
-- Trên đền 4 ơn nặng, dưới cứu khổ 3 đường, nếu có ai thấy nghe, đều ph
+- Trên đền 4 ơn nặng, dưới cứu khổ 3 đường, nếu có ai thấy nghe, đều phát tâm bồ đề, hết một báo thân này, đồng sanh cõi cực lạc. 
