@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,7,3,2,60,60,340,1
+Style: Highlight,Arial,72,&H0000FFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,8,4,2,60,60,340,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:02.86,Default,,0,0,0,,You just {\c&H0000FFFF&}CLOSED{\c&H00FFFFFF&} that tab, didn’t you?
+Dialogue: 0,0:00:02.81,0:00:07.15,Default,,0,0,0,,And that heavy, suffocating {\c&H0000FFFF&}GUILT{\c&H00FFFFFF&} is crushing your chest right now.
+Dialogue: 0,0:00:07.15,0:00:09.30,Default,,0,0,0,,Stop hating yourself.
+Dialogue: 0,0:00:09.30,0:00:12.88,Default,,0,0,0,,Your brain was {\c&H0000FFFF&}HIJACKED{\c&H00FFFFFF&} by a cheap {\c&H0000FFFF&}DOPAMINE{\c&H00FFFFFF&} trap.
+Dialogue: 0,0:00:12.88,0:00:18.57,Default,,0,0,0,,In Buddhism, this is {\c&H0000FFFF&}KAMA{\c&H00FFFFFF&}: an {\c&H0000FFFF&}ILLUSION{\c&H00FFFFFF&} that promises gold, but leaves you in {\c&H0000FFFF&}ASHES{\c&H00FFFFFF&}.
+Dialogue: 0,0:00:18.57,0:00:21.25,Default,,0,0,0,,The {\c&H0000FFFF&}PLEASURE{\c&H00FFFFFF&} lasted ten seconds.
+Dialogue: 0,0:00:21.25,0:00:24.01,Default,,0,0,0,,The {\c&H0000FFFF&}BRAIN FOG{\c&H00FFFFFF&} lasts for days.
+Dialogue: 0,0:00:24.01,0:00:26.17,Default,,0,0,0,,Here is your {\c&H0000FFFF&}CURE{\c&H00FFFFFF&} right now.
+Dialogue: 0,0:00:26.17,0:00:27.87,Default,,0,0,0,,{\c&H0000FFFF&}SIT UPRIGHT{\c&H00FFFFFF&}.
+Dialogue: 0,0:00:27.87,0:00:29.75,Default,,0,0,0,,{\c&H0000FFFF&}UNCLENCH{\c&H00FFFFFF&} your jaw.
+Dialogue: 0,0:00:29.75,0:00:31.62,Default,,0,0,0,,Open your fists.
+Dialogue: 0,0:00:31.62,0:00:33.89,Default,,0,0,0,,Feel that fiery craving.
+Dialogue: 0,0:00:33.89,0:00:35.55,Default,,0,0,0,,Do not fight it.
+Dialogue: 0,0:00:35.55,0:00:38.03,Default,,0,0,0,,Just watch it burn itself out.
+Dialogue: 0,0:00:38.03,0:00:40.93,Default,,0,0,0,,Take one {\c&H0000FFFF&}MASSIVE BREATH{\c&H00FFFFFF&} through your nose.
+Dialogue: 0,0:00:40.93,0:00:42.94,Default,,0,0,0,,Fill your lower belly.
+Dialogue: 0,0:00:42.94,0:00:46.34,Default,,0,0,0,,Now splash freezing {\c&H0000FFFF&}COLD WATER{\c&H00FFFFFF&} on your face.
+Dialogue: 0,0:00:46.34,0:00:49.30,Default,,0,0,0,,Turn that primal fire into mental fuel.
+Dialogue: 0,0:00:49.30,0:00:51.90,Default,,0,0,0,,You are {\c&H0000FFFF&}NOT A SLAVE{\c&H00FFFFFF&} to pixels.
+Dialogue: 0,0:00:51.90,0:00:53.56,Default,,0,0,0,,Open your book.
+Dialogue: 0,0:00:53.56,0:00:55.70,Default,,0,0,0,,{\c&H0000FFFF&}MASTER YOUR MIND{\c&H00FFFFFF&} today.
